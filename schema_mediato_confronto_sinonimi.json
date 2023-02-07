@@ -1,0 +1,19 @@
+[
+    {
+        "name": "name",
+        "industry": "categories company_business",
+        "market_cap": "market_capitalization",
+        "employees": "number_of_ememployees",
+        "country": "nation",
+        "headquarters": "headquarters",
+        "address": "address",
+        "sector": "sector",
+        "ceo": "",
+        "founded": "foundation founding_year year_of_foundation",
+        "share_price": "share_price",
+        "website": "website",
+        "stock": "stock",
+        "area_served": "area_served",
+        "earnings": "revenue income"
+    }
+]
