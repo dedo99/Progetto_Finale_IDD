@@ -1,0 +1,367 @@
+,tab1,attr1,tab2,attr2,prob,matcher
+0,table_1,industry,cbinsights.json,industry,0.78370917,Coma
+1,table_1,country,cbinsights.json,country,0.7812582,Coma
+2,table_1,sector,cbinsights.json,selectinvestors,0.35179862,Coma
+3,table_1,founded,cbinsights.json,datejoined,0.28348395,Coma
+4,table_1,name,cbinsights.json,valuation,0.22510847,Coma
+5,table_1,share_price,companiesMarketCap_dataset.jsonl,share_price,0.8196193,Coma
+6,table_1,market_cap,companiesMarketCap_dataset.jsonl,market_cap,0.81783354,Coma
+7,table_1,country,companiesMarketCap_dataset.jsonl,country,0.811216,Coma
+8,table_1,name,companiesMarketCap_dataset.jsonl,name,0.8017621,Coma
+9,table_1,founded,companiesMarketCap_dataset.jsonl,id,0.30935657,Coma
+10,table_1,stock,companiesMarketCap_dataset.jsonl,rank,0.30294633,Coma
+11,table_1,employees,companiesMarketCap_dataset.jsonl,categories,0.29485422,Coma
+12,table_1,name,campaignindia.csv,BRAND NAME,0.42887965,Coma
+13,table_1,name,campaignindia.csv,BRAND NAME,0.9780207788541116,DistributionBased
+14,table_1,market_cap,campaignindia.csv,MAIN MARKET,0.42591837,Coma
+15,table_1,country,campaignindia.csv,CATEGORY,0.31707317,Coma
+16,table_1,stock,campaignindia.csv,RANK,0.24250546,Coma
+17,table_1,country,MalPatSaj-companiesmarketcap.com.xls,Country,0.802208,Coma
+18,table_1,name,MalPatSaj-companiesmarketcap.com.xls,Name,0.7927542,Coma
+19,table_1,market_cap,MalPatSaj-companiesmarketcap.com.xls,MarketCap,0.6671172,Coma
+20,table_1,share_price,MalPatSaj-companiesmarketcap.com.xls,Price,0.49910343,Coma
+21,table_1,share_price,MalPatSaj-companiesmarketcap.com.xls,Price,0.9924457962744723,DistributionBased
+22,table_1,stock,MalPatSaj-companiesmarketcap.com.xls,Symbol,0.2597665,Coma
+23,table_1,stock,MalPatSaj-companiesmarketcap.com.xls,Symbol,0.9768512647224261,DistributionBased
+24,table_1,industry,MalPatSaj-disfold.com.xlsx,Industry,0.84821236,Coma
+25,table_1,country,MalPatSaj-disfold.com.xlsx,Country,0.8457614,Coma
+26,table_1,sector,MalPatSaj-disfold.com.xlsx,Sector,0.843004,Coma
+27,table_1,stock,MalPatSaj-disfold.com.xlsx,Stock,0.83987904,Coma
+28,table_1,name,MalPatSaj-disfold.com.xlsx,Name,0.8363075,Coma
+29,table_1,market_cap,MalPatSaj-disfold.com.xlsx,MarketCap,0.7106706,Coma
+30,table_1,country,companiesmarketcap.json,country,0.8025657,Coma
+31,table_1,name,companiesmarketcap.json,name,0.79311186,Coma
+32,table_1,share_price,companiesmarketcap.json,sharePrice,0.67961013,Coma
+33,table_1,market_cap,companiesmarketcap.json,marketcap,0.66747487,Coma
+34,table_1,stock,companiesmarketcap.json,rank,0.29429606,Coma
+35,table_1,employees,companiesmarketcap.json,categories,0.28620395,Coma
+36,table_1,market_cap,disfold_dataset.jsonl,market_cap,0.8514473,Coma
+37,table_1,employees,disfold_dataset.jsonl,employees,0.84947366,Coma
+38,table_1,founded,disfold_dataset.jsonl,founded,0.8448297,Coma
+39,table_1,name,disfold_dataset.jsonl,name,0.83537585,Coma
+40,table_1,ceo,disfold_dataset.jsonl,ceo,0.831255,Coma
+41,table_1,headquarters,disfold_dataset.jsonl,headquarters_country,0.6357422,Coma
+42,table_1,country,company_social_urls.csv,Company,0.3124383,Coma
+43,table_1,industry,company_social_urls.csv,Instagram,0.21795724,Coma
+44,table_1,sector,company_social_urls.csv,Twitter,0.19300869,Coma
+45,table_1,stock,company_social_urls.csv,Facebook,0.19300869,Coma
+46,table_1,address,company_social_urls.csv,Pinterest,0.17812456,Coma
+47,table_1,country,MalPatSaj-forbes.com.xls,Country,0.7905094,Coma
+48,table_1,name,MalPatSaj-forbes.com.xls,Name,0.78105557,Coma
+49,table_1,market_cap,MalPatSaj-forbes.com.xls,Market Value,0.4463486,Coma
+50,table_1,market_cap,MalPatSaj-forbes.com.xls,Market Value,0.9309208626682783,DistributionBased
+51,table_1,employees,MalPatSaj-forbes.com.xls,Sales,0.31992114,Coma
+52,table_1,address,MalPatSaj-forbes.com.xls,Assets,0.30833468,Coma
+53,table_1,headquarters,disfold.com.json,headquarters,0.84476304,Coma
+54,table_1,market_cap,disfold.com.json,market_cap,0.8413539,Coma
+55,table_1,employees,disfold.com.json,employees,0.83938026,Coma
+56,table_1,name,disfold.com.json,name,0.82528245,Coma
+57,table_1,ceo,disfold.com.json,ceo,0.8211616,Coma
+58,table_1,stock,disfold.com.json,link,0.32646668,Coma
+59,table_1,industry,hitHorizons_dataset.jsonl,industry,0.79689187,Coma
+60,table_1,address,hitHorizons_dataset.jsonl,address,0.7944409,Coma
+61,table_1,name,hitHorizons_dataset.jsonl,name,0.7849871,Coma
+62,table_1,founded,hitHorizons_dataset.jsonl,id,0.29258153,Coma
+63,table_1,share_price,hitHorizons_dataset.jsonl,sic_code,0.26525867,Coma
+64,table_1,employees,hitHorizons_dataset.jsonl,sic_code,0.2648777,Coma
+65,table_1,industry,DDD-cbinsight.com.csv,industry,0.8190892,Coma
+66,table_1,country,DDD-cbinsight.com.csv,country,0.81663823,Coma
+67,table_1,founded,DDD-cbinsight.com.csv,founded,0.81663823,Coma
+68,table_1,name,DDD-cbinsight.com.csv,name,0.8071844,Coma
+69,table_1,stock,DDD-cbinsight.com.csv,stage,0.37027967,Coma
+70,table_1,stock,DDD-cbinsight.com.csv,stage,0.7988929484166966,DistributionBased
+71,table_1,headquarters,MalPatSaj-wikipedia.org.xls,Headquarters,0.8510791,Coma
+72,table_1,industry,MalPatSaj-wikipedia.org.xls,Industry,0.8435033,Coma
+73,table_1,founded,MalPatSaj-wikipedia.org.xls,Founded,0.84105235,Coma
+74,table_1,sector,MalPatSaj-wikipedia.org.xls,Sector,0.838295,Coma
+75,table_1,name,MalPatSaj-wikipedia.org.xls,Name,0.8315985,Coma
+76,table_1,employees,MalPatSaj-wikipedia.org.xls,Notes,0.36392817,Coma
+77,table_1,industry,disfold.json,industry,0.85204524,Coma
+78,table_1,country,disfold.json,country,0.8495943,Coma
+79,table_1,sector,disfold.json,sector,0.8468369,Coma
+80,table_1,stock,disfold.json,stock,0.8437119,Coma
+81,table_1,name,disfold.json,name,0.84014046,Coma
+82,table_1,market_cap,disfold.json,marketCap,0.71450347,Coma
+83,table_1,founders,valueToday_dataset.jsonl,founders,0.81794,Coma
+84,table_1,name,valueToday_dataset.jsonl,name,0.8060352,Coma
+85,table_1,ceo,valueToday_dataset.jsonl,ceo,0.8019144,Coma
+86,table_1,headquarters,valueToday_dataset.jsonl,headquarters_country,0.60640156,Coma
+87,table_1,employees,valueToday_dataset.jsonl,number_of_employees,0.5471067,Coma
+88,table_1,website,valueToday_dataset.jsonl,company_website,0.5335994,Coma
+89,table_1,revenue,valueToday_dataset.jsonl,annual_revenue_in_usd,0.38044006,Coma
+90,table_1,revenue,valueToday_dataset.jsonl,annual_revenue_in_usd,0.9503802760264116,DistributionBased
+91,table_1,address,valueToday_dataset.jsonl,company_business,0.32536897,Coma
+92,table_1,stock,valueToday_dataset.jsonl,world_rank,0.26223826,Coma
+93,table_1,share_price,DDD-companiesmarketcap.com.csv,share_price,0.8155905,Coma
+94,table_1,country,DDD-companiesmarketcap.com.csv,country,0.8071872,Coma
+95,table_1,name,DDD-companiesmarketcap.com.csv,name,0.7977333,Coma
+96,table_1,market_cap,DDD-companiesmarketcap.com.csv,marketcap,0.6720964,Coma
+97,table_1,stock,DDD-companiesmarketcap.com.csv,rank,0.29891753,Coma
+98,table_1,employees,DDD-companiesmarketcap.com.csv,categories,0.29082543,Coma
+99,table_1,employees,forbes.com.json,employees,0.87426317,Coma
+100,table_1,industry,forbes.com.json,industry,0.87207013,Coma
+101,table_1,country,forbes.com.json,country,0.8696192,Coma
+102,table_1,founded,forbes.com.json,founded,0.8696192,Coma
+103,table_1,revenue,forbes.com.json,revenue,0.8696192,Coma
+104,table_1,name,forbes.com.json,name,0.86016536,Coma
+105,table_1,ceo,forbes.com.json,ceo,0.85604453,Coma
+106,table_1,stock,forbes.com.json,link,0.36134958,Coma
+107,table_1,country,DDD-ft.com.csv,country,0.81169474,Coma
+108,table_1,sector,DDD-ft.com.csv,sector,0.8089374,Coma
+109,table_1,name,DDD-ft.com.csv,name,0.8022409,Coma
+110,table_1,revenue,DDD-ft.com.csv,revenue_2020_euro,0.49534726,Coma
+111,table_1,revenue,DDD-ft.com.csv,revenue_2020_euro,0.9946048216998582,DistributionBased
+112,table_1,revenue,DDD-ft.com.csv,revenue_2017_euro,0.49534726,Coma
+113,table_1,founded,DDD-ft.com.csv,founding_year,0.43914568,Coma
+114,table_1,founded,DDD-ft.com.csv,founding_year,0.6871146819253656,DistributionBased
+115,table_1,employees,DDD-ft.com.csv,number_of_employees_2020,0.41764307,Coma
+116,table_1,employees,DDD-ft.com.csv,number_of_employees_2020,0.9935155563445606,DistributionBased
+117,table_1,employees,DDD-ft.com.csv,number_of_employees_2017,0.41764307,Coma
+118,table_1,employees,DDD-ft.com.csv,number_of_employees_2017,0.9816680909680879,DistributionBased
+119,table_1,employees,ft.com.json,employees,0.8611958,Coma
+120,table_1,industry,ft.com.json,industry,0.8590028,Coma
+121,table_1,country,ft.com.json,country,0.8565519,Coma
+122,table_1,founded,ft.com.json,founded,0.8565519,Coma
+123,table_1,revenue,ft.com.json,revenue,0.8565519,Coma
+124,table_1,name,ft.com.json,name,0.847098,Coma
+125,table_1,stock,ft.com.json,link,0.34828222,Coma
+126,table_1,industry,DDD-teamblind.com.csv,industry,0.8258008,Coma
+127,table_1,founded,DDD-teamblind.com.csv,founded,0.82334983,Coma
+128,table_1,website,DDD-teamblind.com.csv,website,0.82334983,Coma
+129,table_1,name,DDD-teamblind.com.csv,name,0.813896,Coma
+130,table_1,employees,DDD-teamblind.com.csv,size,0.32602358,Coma
+131,table_1,country,gren-companiesmarketcap.com.json,country,0.7953672,Coma
+132,table_1,name,gren-companiesmarketcap.com.json,name,0.78591335,Coma
+133,table_1,share_price,gren-companiesmarketcap.com.json,price,0.4922626,Coma
+134,table_1,market_cap,gren-companiesmarketcap.com.json,market_capitalization_USD,0.48225874,Coma
+135,table_1,employees,disfold.csv,Employees,0.8317251,Coma
+136,table_1,founded,disfold.csv,Founded,0.82708114,Coma
+137,table_1,name,disfold.csv,Name,0.8176273,Coma
+138,table_1,ceo,disfold.csv,CEO,0.8135065,Coma
+139,table_1,sector,disfold.csv,Top Competitor,0.3586988,Coma
+140,table_1,industry,gren-disfold.com.json,industry,0.84648186,Coma
+141,table_1,country,gren-disfold.com.json,country,0.8440309,Coma
+142,table_1,sector,gren-disfold.com.json,sector,0.84127355,Coma
+143,table_1,stock,gren-disfold.com.json,stock,0.83814853,Coma
+144,table_1,name,gren-disfold.com.json,name,0.8345771,Coma
+145,table_1,market_cap,gren-disfold.com.json,market_capitalization_USD,0.5309225,Coma
+146,table_1,headquarters,famcap_germany.csv,Headquarters,0.8352946,Coma
+147,table_1,employees,famcap_germany.csv,Employees,0.8299118,Coma
+148,table_1,founded,famcap_germany.csv,Founded,0.8252678,Coma
+149,table_1,website,famcap_germany.csv,Website,0.8252678,Coma
+150,table_1,sector,famcap_germany.csv,Sector,0.8225105,Coma
+151,table_1,revenue,famcap_germany.csv,Revenues 2018 $m,0.51817954,Coma
+152,table_1,country,famcap_germany.csv,Company,0.4036992,Coma
+153,table_1,stock,famcap_germany.csv,Rank,0.31699818,Coma
+154,table_1,country,gren-ft.com.json,country,0.826169,Coma
+155,table_1,sector,gren-ft.com.json,sector,0.8234116,Coma
+156,table_1,name,gren-ft.com.json,name,0.8167151,Coma
+157,table_1,revenue,gren-ft.com.json,revenue_2020_EU,0.53585887,Coma
+158,table_1,revenue,gren-ft.com.json,revenue_2017_EU,0.53585887,Coma
+159,table_1,employees,gren-ft.com.json,employees_number_2020,0.52499247,Coma
+160,table_1,employees,gren-ft.com.json,employees_number_2017,0.52499247,Coma
+161,table_1,founded,gren-ft.com.json,founding_year,0.45361993,Coma
+162,table_1,country,followers.csv,Company,0.3124383,Coma
+163,table_1,industry,followers.csv,Instagram,0.21795724,Coma
+164,table_1,sector,followers.csv,Twitter,0.19300869,Coma
+165,table_1,stock,followers.csv,Facebook,0.19300869,Coma
+166,table_1,address,followers.csv,Pinterest,0.17812456,Coma
+167,table_1,name,gren-value.today.json,name,0.79186565,Coma
+168,table_1,ceo,gren-value.today.json,CEO,0.7877448,Coma
+169,table_1,headquarters,gren-value.today.json,headquarters_country,0.592232,Coma
+170,table_1,employees,gren-value.today.json,employees_number,0.5613375,Coma
+171,table_1,market_cap,gren-value.today.json,market_capitalization_2022,0.4793657,Coma
+172,table_1,revenue,gren-value.today.json,annual_revenue_USD,0.39007312,Coma
+173,table_1,industry,forbes.csv,Industry,0.82414377,Coma
+174,table_1,founded,forbes.csv,Founded,0.8216928,Coma
+175,table_1,revenue,forbes.csv,Revenue,0.8216928,Coma
+176,table_1,name,forbes.csv,Name,0.812239,Coma
+177,table_1,headquarters,igmm-disfold.com.json,headquarters,0.89805746,Coma
+178,table_1,employees,igmm-disfold.com.json,employees,0.8926747,Coma
+179,table_1,industry,igmm-disfold.com.json,industry,0.89048165,Coma
+180,table_1,country,igmm-disfold.com.json,country,0.8880307,Coma
+181,table_1,founded,igmm-disfold.com.json,founded,0.8880307,Coma
+182,table_1,revenue,igmm-disfold.com.json,revenue,0.8880307,Coma
+183,table_1,sector,igmm-disfold.com.json,sector,0.88527334,Coma
+184,table_1,name,igmm-disfold.com.json,name,0.8785769,Coma
+185,table_1,ceo,igmm-disfold.com.json,ceo,0.87445605,Coma
+186,table_1,market_cap,igmm-disfold.com.json,marketcap,0.7529399,Coma
+187,table_1,stock,igmm-disfold.com.json,rank,0.37976104,Coma
+188,table_1,stock,igmm-disfold.com.json,link,0.37976104,Coma
+189,table_1,country,ft.csv,Country,0.80577993,Coma
+190,table_1,sector,ft.csv,Sector,0.8030226,Coma
+191,table_1,name,ft.csv,Name,0.79632616,Coma
+192,table_1,revenue,ft.csv,Revenue 2020 (Ã¢Â‚Â¬),0.47461024,Coma
+193,table_1,revenue,ft.csv,Revenue 2017 (Ã¢Â‚Â¬),0.47461024,Coma
+194,table_1,founded,ft.csv,Founding Year,0.4332309,Coma
+195,table_1,founded,ft.csv,Founding Year,0.8503930752771878,DistributionBased
+196,table_1,employees,ft.csv,Number of employees 2020,0.42116228,Coma
+197,table_1,employees,ft.csv,Number of employees 2020,0.9903581343816301,DistributionBased
+198,table_1,employees,ft.csv,Number of employees 2017,0.42116228,Coma
+199,table_1,employees,ft.csv,Number of employees 2017,0.985811643503623,DistributionBased
+200,table_1,stock,ft.csv,Rank,0.29751033,Coma
+201,table_1,country,marketCap2.json,country,0.7904453,Coma
+202,table_1,name,marketCap2.json,name,0.78099155,Coma
+203,table_1,share_price,marketCap2.json,price,0.48734078,Coma
+204,table_1,share_price,marketCap2.json,price,0.9956021115451966,DistributionBased
+205,table_1,market_cap,marketCap2.json,pricecap,0.3458412,Coma
+206,table_1,market_cap,marketCap2.json,pricecap,0.9733031689982987,DistributionBased
+207,table_1,industry,MarScoToc-ambitionbox.com.csv,Industry,0.8044459,Coma
+208,table_1,name,MarScoToc-ambitionbox.com.csv,Name,0.79254115,Coma
+209,table_1,headquarters,MarScoToc-ambitionbox.com.csv,Headquarter,0.6895665,Coma
+210,table_1,founded,MarScoToc-ambitionbox.com.csv,Foundation Year,0.40746793,Coma
+211,table_1,ceo,MarScoToc-ambitionbox.com.csv,Ownership,0.2523626,Coma
+212,table_1,headquarters,output_disfold.json,headquarters,0.9214065,Coma
+213,table_1,market_cap,output_disfold.json,market_cap,0.91799736,Coma
+214,table_1,employees,output_disfold.json,employees,0.91602373,Coma
+215,table_1,industry,output_disfold.json,industry,0.91383076,Coma
+216,table_1,country,output_disfold.json,country,0.9113798,Coma
+217,table_1,founded,output_disfold.json,founded,0.9113798,Coma
+218,table_1,sector,output_disfold.json,sector,0.9086224,Coma
+219,table_1,stock,output_disfold.json,stock,0.90549743,Coma
+220,table_1,name,output_disfold.json,name,0.9019259,Coma
+221,table_1,ceo,output_disfold.json,ceo,0.8978051,Coma
+222,table_1,country,MarScoToc-companiesmarketcap.com.csv,Country,0.8032092,Coma
+223,table_1,name,MarScoToc-companiesmarketcap.com.csv,Name,0.79375535,Coma
+224,table_1,share_price,MarScoToc-companiesmarketcap.com.csv,Share Price,0.66051364,Coma
+225,table_1,market_cap,MarScoToc-companiesmarketcap.com.csv,Master Cap,0.43066013,Coma
+226,table_1,market_cap,MarScoToc-companiesmarketcap.com.csv,Master Cap,0.9524757005915377,DistributionBased
+227,table_1,stock,MarScoToc-companiesmarketcap.com.csv,Rank,0.29493955,Coma
+228,table_1,headquarters,output_globaldata.json,headquarters,0.8792052,Coma
+229,table_1,market_cap,output_globaldata.json,market_cap,0.8757961,Coma
+230,table_1,industry,output_globaldata.json,industry,0.8716294,Coma
+231,table_1,address,output_globaldata.json,address,0.8691785,Coma
+232,table_1,website,output_globaldata.json,website,0.8691785,Coma
+233,table_1,revenue,output_globaldata.json,revenue,0.8691785,Coma
+234,table_1,name,output_globaldata.json,name,0.85972464,Coma
+235,table_1,employees,output_globaldata.json,number_of_employees,0.6007961,Coma
+236,table_1,industry,MarScoToc-disfold.com.csv,Industry,0.828168,Coma
+237,table_1,country,MarScoToc-disfold.com.csv,Country,0.82571703,Coma
+238,table_1,sector,MarScoToc-disfold.com.csv,Sector,0.82295966,Coma
+239,table_1,name,MarScoToc-disfold.com.csv,Name,0.8162632,Coma
+240,table_1,market_cap,MarScoToc-disfold.com.csv,MasterCap,0.4654311,Coma
+241,table_1,name,output_govuk_bigsize.json,name,0.7488152,Coma
+242,table_1,address,output_govuk_bigsize.json,registered_office_address,0.3718311,Coma
+243,table_1,country,output_govuk_bigsize.json,company_type,0.22908676,Coma
+244,table_1,headquarters,MarScoToc-wikipedia.org.csv,headQuarters,0.849867,Coma
+245,table_1,industry,MarScoToc-wikipedia.org.csv,Industry,0.84229124,Coma
+246,table_1,founded,MarScoToc-wikipedia.org.csv,Founded,0.8398403,Coma
+247,table_1,name,MarScoToc-wikipedia.org.csv,Name,0.8303864,Coma
+248,table_1,area_served,MarScoToc-wikipedia.org.csv,Area Served,0.69714475,Coma
+249,table_1,headquarters,output_wiki.json,headquarters,0.8636485,Coma
+250,table_1,industry,output_wiki.json,industry,0.85607266,Coma
+251,table_1,founders,output_wiki.json,founders,0.85607266,Coma
+252,table_1,founded,output_wiki.json,founded,0.8536217,Coma
+253,table_1,website,output_wiki.json,website,0.8536217,Coma
+254,table_1,revenue,output_wiki.json,revenue,0.8536217,Coma
+255,table_1,name,output_wiki.json,name,0.8441679,Coma
+256,table_1,employees,output_wiki.json,number_of_employees,0.58523935,Coma
+257,table_1,sector,output_wiki.json,services,0.3683276,Coma
+258,table_1,country,silvestri-disfold.com.csv,country,0.82727784,Coma
+259,table_1,sector,silvestri-disfold.com.csv,sector,0.82452047,Coma
+260,table_1,stock,silvestri-disfold.com.csv,stock,0.82139546,Coma
+261,table_1,name,silvestri-disfold.com.csv,name,0.817824,Coma
+262,table_1,market_cap,silvestri-disfold.com.csv,market_value_apr_2022,0.43904254,Coma
+263,table_1,market_cap,silvestri-disfold.com.csv,market_value_apr_2022,0.8601480112951192,DistributionBased
+264,table_1,industry,slytherin-value.today.json,industry,0.85187376,Coma
+265,table_1,country,slytherin-value.today.json,country,0.8494228,Coma
+266,table_1,founded,slytherin-value.today.json,founded,0.8494228,Coma
+267,table_1,revenue,slytherin-value.today.json,revenue,0.8494228,Coma
+268,table_1,name,slytherin-value.today.json,name,0.839969,Coma
+269,table_1,ceo,slytherin-value.today.json,ceo,0.83584815,Coma
+270,table_1,stock,slytherin-value.today.json,link,0.3411532,Coma
+271,table_1,stock,slytherin-value.today.json,rank,0.3411532,Coma
+272,table_1,country,silvestri-forbes.com.csv,country,0.7951269,Coma
+273,table_1,name,silvestri-forbes.com.csv,name,0.7856731,Coma
+274,table_1,revenue,silvestri-forbes.com.csv,revenue_2022,0.5514871,Coma
+275,table_1,market_cap,silvestri-forbes.com.csv,market_value_apr_2022,0.40689164,Coma
+276,table_1,market_cap,silvestri-forbes.com.csv,market_value_apr_2022,0.9517536822778708,DistributionBased
+277,table_1,name,value.today.json,name,0.7940184,Coma
+278,table_1,ceo,value.today.json,ceo,0.78989756,Coma
+279,table_1,headquarters,value.today.json,headquarters country,0.59438473,Coma
+280,table_1,employees,value.today.json,number of employees,0.54550654,Coma
+281,table_1,website,value.today.json,company website,0.5334873,Coma
+282,table_1,revenue,value.today.json,annual revenue in USD,0.37883985,Coma
+283,table_1,market_cap,value.today.json,market value (Jan-07-2022),0.34580415,Coma
+284,table_1,address,value.today.json,company business,0.31335214,Coma
+285,table_1,country,silvestri-ft.com.csv,country,0.832653,Coma
+286,table_1,sector,silvestri-ft.com.csv,sector,0.8298956,Coma
+287,table_1,name,silvestri-ft.com.csv,name,0.82319915,Coma
+288,table_1,employees,silvestri-ft.com.csv,employees_2017,0.62289464,Coma
+289,table_1,employees,silvestri-ft.com.csv,employees_2020,0.62289464,Coma
+290,table_1,revenue,silvestri-ft.com.csv,revenue_2017,0.58901316,Coma
+291,table_1,revenue,silvestri-ft.com.csv,revenue_2020,0.58901316,Coma
+292,table_1,founded,silvestri-ft.com.csv,founding_year,0.46010393,Coma
+293,table_1,country,valueToday2.json,country,0.81192577,Coma
+294,table_1,name,valueToday2.json,name,0.80247194,Coma
+295,table_1,ceo,valueToday2.json,CEO,0.7983511,Coma
+296,table_1,market_cap,valueToday2.json,marketCap,0.67683494,Coma
+297,table_1,stock,valueToday2.json,world_rank,0.25867498,Coma
+298,table_1,country,silvestri-value.today.csv,country,0.83863306,Coma
+299,table_1,sector,silvestri-value.today.csv,sector,0.8358757,Coma
+300,table_1,name,silvestri-value.today.csv,name,0.8291792,Coma
+301,table_1,ceo,silvestri-value.today.csv,ceo,0.8250584,Coma
+302,table_1,employees,silvestri-value.today.csv,employees_2022,0.6288747,Coma
+303,table_1,revenue,silvestri-value.today.csv,revenue_2022,0.59499323,Coma
+304,table_1,market_cap,silvestri-value.today.csv,market_value_jan_2020,0.4503978,Coma
+305,table_1,market_cap,silvestri-value.today.csv,market_value_jan_2020,0.9525448533986304,DistributionBased
+306,table_1,market_cap,silvestri-value.today.csv,market_value_jan_2021,0.4503978,Coma
+307,table_1,market_cap,silvestri-value.today.csv,market_value_jan_2021,0.9525448533986304,DistributionBased
+308,table_1,market_cap,silvestri-value.today.csv,market_value_jan_2022,0.4503978,Coma
+309,table_1,market_cap,silvestri-value.today.csv,market_value_jan_2022,0.9761350567281435,DistributionBased
+310,table_1,headquarters,wiki.json,Headquarters,0.8572156,Coma
+311,table_1,industry,wiki.json,Industry,0.8496398,Coma
+312,table_1,founded,wiki.json,Founded,0.84718883,Coma
+313,table_1,sector,wiki.json,Sector,0.84443146,Coma
+314,table_1,name,wiki.json,Name,0.837735,Coma
+315,table_1,name,sole24ore.csv,Unnamed: 1,0.24381907,Coma
+316,table_1,share_price,sole24ore.csv,E-commerce,0.19595522,Coma
+317,table_1,country,valuetoday.csv,Country,0.8254914,Coma
+318,table_1,name,valuetoday.csv,Name,0.8160376,Coma
+319,table_1,ceo,valuetoday.csv,CEO,0.81191677,Coma
+320,table_1,founded,valuetoday.csv,Founded Year,0.577803,Coma
+321,table_1,employees,valuetoday.csv,Number of Employees,0.56752574,Coma
+322,table_1,market_cap,valuetoday.csv,Market Value,0.48133063,Coma
+323,table_1,sector,valuetoday.csv,IPO Year,0.2781058,Coma
+324,table_1,name,wissel-activity-ariregister.rik.ee.csv,NACE Code,0.3383154,Coma
+325,table_1,share_price,wissel-activity-ariregister.rik.ee.csv,Source,0.29159796,Coma
+326,table_1,area_served,wissel-activity-ariregister.rik.ee.csv,Area of Activity,0.26540965,Coma
+327,table_1,address,wissel-aziende-ariregister.rik.ee.csv,Address,0.7784903,Coma
+328,table_1,name,wissel-aziende-ariregister.rik.ee.csv,Name,0.7690364,Coma
+329,table_1,stock,wissel-aziende-ariregister.rik.ee.csv,Status,0.32836828,Coma
+330,table_1,country,wissel-aziende-ariregister.rik.ee.csv,Code,0.31884447,Coma
+331,table_1,founded,wissel-aziende-ariregister.rik.ee.csv,ID,0.27663088,Coma
+332,table_1,founded,wissel-aziende-ariregister.rik.ee.csv,ID,0.8916043003032599,DistributionBased
+333,table_1,revenue,wissel-aziende-ariregister.rik.ee.csv,Registration Date,0.27065986,Coma
+334,table_1,website,wissel-aziende-ariregister.rik.ee.csv,Deletion Date,0.25594124,Coma
+335,table_1,employees,wissel-aziende-companiesmarketcap.com.csv,Employees,0.8212662,Coma
+336,table_1,revenue,wissel-aziende-companiesmarketcap.com.csv,Revenue,0.8166222,Coma
+337,table_1,name,wissel-aziende-companiesmarketcap.com.csv,Name,0.80716836,Coma
+338,table_1,market_cap,wissel-aziende-companiesmarketcap.com.csv,Marketcap,0.68153137,Coma
+339,table_1,share_price,wissel-aziende-companiesmarketcap.com.csv,Share price,0.67392665,Coma
+340,table_1,founded,wissel-aziende-companiesmarketcap.com.csv,ID,0.31476283,Coma
+341,table_1,country,wissel-aziende-companiesmarketcap.com.csv,Company code,0.28980163,Coma
+342,table_1,country,wissel-aziende-companiesmarketcap.com.csv,Company code,0.9660740101800342,DistributionBased
+343,table_1,name,wissel-aziende-gov.uk.csv,Name,0.7540915,Coma
+344,table_1,address,wissel-aziende-gov.uk.csv,Office Address,0.50839466,Coma
+345,table_1,founded,wissel-aziende-gov.uk.csv,ID,0.26168597,Coma
+346,table_1,founded,wissel-aziende-gov.uk.csv,ID,0.8711781842152996,DistributionBased
+347,table_1,revenue,wissel-aziende-gov.uk.csv,Registration Date,0.25571492,Coma
+348,table_1,country,wissel-aziende-gov.uk.csv,Company ID,0.24749565,Coma
+349,table_1,country,wissel-aziende-info-clipper.com.csv,Country,0.79153407,Coma
+350,table_1,name,wissel-aziende-info-clipper.com.csv,Name,0.78208023,Coma
+351,table_1,address,wissel-aziende-info-clipper.com.csv,Address Name,0.5438457,Coma
+352,table_1,industry,wissel-aziende-info-clipper.com.csv,INDEX,0.38333443,Coma
+353,table_1,stock,wissel-aziende-info-clipper.com.csv,State,0.34517553,Coma
+354,table_1,country,wissel-categorie-companiesmarketcap.com.csv,Category,0.2939977,Coma
+355,table_1,country,wissel-categorie-companiesmarketcap.com.csv,Category,0.8498676008396236,DistributionBased
+356,table_1,share_price,wissel-categorie-companiesmarketcap.com.csv,Hash,0.16308711,Coma
+357,table_1,name,wissel-partners-ariregister.rik.ee.csv,Name,0.7448245,Coma
+358,table_1,country,wissel-partners-ariregister.rik.ee.csv,Code,0.29463252,Coma
+359,table_1,address,wissel-partners-ariregister.rik.ee.csv,ID azienda,0.17709608,Coma
+360,table_1,name,wissel-rappresentanti-ariregister.rik.ee.csv,Name,0.75527287,Coma
+361,table_1,country,wissel-rappresentanti-ariregister.rik.ee.csv,Code,0.3050809,Coma
+362,table_1,revenue,wissel-rappresentanti-ariregister.rik.ee.csv,Role,0.3050809,Coma
+363,table_1,stock,wissel-rappresentanti-ariregister.rik.ee.csv,Start Date,0.2641075,Coma
+364,table_1,website,wissel-rappresentanti-ariregister.rik.ee.csv,Start Date,0.26219055,Coma
+365,table_1,address,wissel-rappresentanti-ariregister.rik.ee.csv,ID azienda,0.18754447,Coma
