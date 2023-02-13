@@ -1,0 +1,767 @@
+name,industry,market_cap,employees,country,headquarters,address,sector,ceo,founded,founders,share_price,website,stock,area_served,revenue
+Apple,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",$2.351 T,164.000,USA,"Cupertino, CA, United States",,Technology,Tim Cook,1976,,$147.81,,AAPL,,$394.32 B
+Wells Fargo,Banking,$175.05 B,"247,848",USA,"San Francisco, CA, United States",,Financials,Charles William Scharf,1852,,$45.94,,WFC,,$84.1B
+Nike,"Clothing, Shoes, Sports Equipment",$175.54 B,"73,300",USA,"Beaverton, OR, United States",,Consumer Discretionary,John J. Donahoe II,1964,,$112.20,,NKE,,$46.9B
+Walt Disney,Media & Advertising,$177.08 B,"190,000",USA,,,,Robert A. Chapek,1923,,$99.43,,DIS,,$73B
+Abbott Laboratories,Medical Devices,$188.46 B,"113,000",USA,"NorthChicago,IL,UnitedStates",,Healthcare,Robert B. Ford,1888,,$108.09,,ABT,,$44.5B
+Danaher,"Engineering, Manufacturing",$199.62 B,"80,000",USA,"Washington, DC, United States",,Healthcare,Rainer M. Blair,1984,,$274.23,,DHR,,$30.3B
+Shell,"Construction, Oil & Gas Operations, Mining and Chemicals",$206.97 B,"82,000",UK,"London, United Kingdom",,Energy,Bernardus van Beurden,1907,,$57.72,,SHEL,,$261.8B
+Thermo Fisher Scientific,Drugs & Biotechnology,$220.80 B,"130,000",USA,"Waltham, MA, United States",,Healthcare,Marc N. Casper ,1983,,$563.00,,TMO,,$39.2B
+Broadcom,Semiconductors,$219.02 B,"20,000",USA,"San Jose, CA, United States",,Technology,Hock E. Tan,1961,,$540.80,,AVGO,,$28.5B
+Oracle,"IT, Internet, Software & Services",$224.72 B,"133,000",USA,"Redwood City, CA, United States",,Technology,Safara Catz,1977,,$83.35,,ORCL,,$41.8B
+Pfizer,Drugs & Biotechnology,$285.77 B,"29,000",USA,"New York, NY, United States",,Healthcare,Albert Bourla,1849,,$50.91,,PFE,,$81.5B
+Chevron,"Construction, Oil & Gas Operations, Mining and Chemicals",$350.04 B,"23,729",USA,"San Ramon, CA, United States",,Energy,Michael K. Wirth,1879,,$181.03,,CVX,,$156.3B
+Mastercard,Business Services & Supplies,$346.18 B,"24,000",USA,"Purchase, NY, United States",,Financials,Michael Miebach,1966,,$360.06,,MA,,$18.9B
+Procter & Gamble,Packaged Goods,$356.90 B,"26,000",USA,"Cincinnati, OH, United States",,Consumer Staples,Jon R. Moeller,1837,,$150.61,,PG,,$79.6B
+Eli Lilly,Drugs & Biotechnology,$356.08 B,"36,000",USA,,,,David A. Ricks,1876,,$374.76,,LLY,,$28.3B
+Walmart,Retailing,$415.87 B,"2,300,000",USA,"Bentonville, AR, United States",,Consumer Staples,C. Douglas McMillon,1962,,$153.22,,WMT,,$572.8B
+Visa,Banking and Financial Services,$460.99 B,"21,500",USA,"San Francisco, CA, United States",,Financials,Alfred F. Kelly Jr.,1958,,$217.66,,V,,$25.5B
+Johnson & Johnson,Drug Manufacturers—General,$467.67 B,"130,000",USA,"New Brunswick, NJ, United States",,Healthcare,Joaquin Duato,1886,,$178.88,,JNJ,,$94.9B
+Berkshire Hathaway,Diversified Financials,$696.53 B,"372,000",USA,"Omaha, NE, United States",,Financials,Warren Edward Buffett,1939,,$316.15,,,,$276.1B
+Amazon,Retail and Wholesale,$960.28 B,"1,608,000",USA,"Seattle, WA, United States",,Consumer Discretionary,Andy Jassy,1994,,$94.13,,AMZN,,$469.8B
+Microsoft,"IT, Internet, Software & Services",$1.901 T,221.000,USA,"Redmond, WA, United States",,Technology,Satya Nadella,1975,,$255.02,,MSFT,,$203.07 B
+Elevance Health,Drugs & Biotechnology,$125.66 B,"98,200",USA,,,,Gail K. Boudreaux,2004,,$523.60,,ELV,,$144.3B
+Lockheed Martin,Aerospace & Defense,$130.04 B,"106,020",USA,,,,James D. Taiclet,1912,,$496.23,,LMT,,$65.8B
+Unilever,Packaged Goods,$131.15 B,"148,000",UK,"London, United Kingdom",,Consumer Staples,Alan Jope,1929,,$51.50,,UL,,$62B
+Union Pacific Corporation,Railroads,$132.01 B,30.582,USA,"Omaha,NE,UnitedStates",,Industrials, Mr. Lance M. Fritz, 1969 ,,$214.73,,UNP,,$22.68 B
+Deere & Company,Farm & Heavy Construction Machinery,$134.49 B,"75,600",USA,"Moline,IL,UnitedStates",,Industrials,John C. May,1837,,$445.61,,DE,,$44.5B
+Netflix,Media & Advertising,$142.58 B,"11,300",USA,"Los Gatos, CA, United States",,Communication Services,Reed Hastings Ted Sarandos,1997,,$320.41,,NFLX,,$30.4B
+Raytheon Technologies,Aerospace & Defense,$148.49 B,"174,000",USA,"Waltham, MA, United States",,Industrials,Gregory J. Hayes,1922,,$101.01,,RTX,,$64.4B
+China Mobile,Telecommunications Services,$149.18 B,"449,934",China,"Hong Kong, Hong Kong",,Communication Services,Xin Dong,1997,,$6.59,,0941.HK,,$131.5B
+Amgen,Drugs & Biotechnology,$152.34 B,"24,200",USA,"Thousand Oaks, CA, United States",,Healthcare,Robert A. Bradway,1980,,$285.51,,AMGN,,$26B
+Charles Schwab,Banking and Financial Services,$153.93 B,35.200,USA,,,,Walter W. Bettinger II,1971,,$82.46,,SCHW,,$19.97 B
+Adobe,"IT, Internet, Software & Services",$158.77 B,"25,988",USA,"San Jose, CA, United States",,Technology,Shantanu Narayen,1982,,$341.53,,ADBE,,$16.1B
+Comcast,Media & Advertising,$155.03 B,"132,300",USA,"Philadelphia, PA, United States",,Communication Services,Brian L. Roberts,1963,,$35.86,,CMCSA,,$116.4B
+Morgan Stanley,Capital Markets,$155.65 B,81.567,USA,"New York, NY, United States",,Financials,James P. Gorman,1924,,$92.10,,MS,,$52.02 B
+Texas Instruments,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",$161.23 B,"31,000",USA,"Dallas, TX, United States",,Technology,Richard (Rich) K. Templeton,1930,,$177.66,,TXN,,$18.3B
+Linde,Chemicals,$166.77 B,"72,327",UK,"Guildford, United Kingdom",,Basic Materials,Sanjiv Lamba,1879,,$337.35,,LIN,,$30.8B
+United Parcel Service,Transportation and Logistics,$163.80 B,500.000,USA,,,,Carol B. Tomé,1907,,$189.39,,UPS,,$101.07 B
+Applied Materials,Semiconductors,$91.80 B,31.900,USA,"Santa Clara, CA, United States",,Technology,Gary E. Dickerson,1967,,$106.71,,AMAT,,$25.78 B
+Citigroup,Banking and Financial Services,$91.49 B,"223,400",USA,,,,Jane Fraser,1812,,$47.24,,C,,$79.9B
+Stryker Corporation,Medical Devices,$92.00 B,"46,000",USA,"Kalamazoo, MI, United States",,Healthcare,Mr. Kevin A. Lobo,1941,,$243.11,,SYK,,US$17.108 billion (2021)
+General Electric,"Engineering, Manufacturing",$94.93 B,"168,000",USA,"Boston, MA, United States",,Industrials,H. Lawrence Culp Jr.,1892,,$86.88,,GE,,$74.1B
+British American Tobacco,"Food, Drink & Tobacco",$94.99 B,"55,981",UK,,,,Jack Bowles,1902,,$42.31,,BTI,,$35.3B
+Intuitive Surgical,Health Care Equipment & Services,$96.20 B,9.793,USA,,,,Gary S. Guthart,1995,,$272.25,,ISRG,,$6.11 B
+American Tower,"Telecommunications Services, Cable Supplier",$102.13 B,"2,291",USA,"Boston, MA, United States",,Real Estate,Thomas A. Bartlett,1995,,$219.37,,AMT,,$9.4B
+Cigna,Insurance,$100.03 B,"73,700",USA,,,,David Cordani,1792,,$327.20,,CI,,$174.3B
+Diageo,"Food, Soft Beverages, Alcohol & Tobacco",$108.84 B,"27,987",UK,,,,Ivan M. Menezes,1997,,$191.39,,DEO,,$19B
+Prologis,Real Estate,$107.94 B,Not found,USA,"San Francisco, CA, United States",,Real Estate,Not found,1993,,$116.94,,PLD,,$4.8B
+Boeing,Aerospace & Defense,$108.98 B,"142,000",USA,,,,David L. Calhoun,1916,,$182.87,,BA,,$62.3B
+Gilead Sciences,Drugs & Biotechnology,$111.66 B,"14,000",USA,,,,Daniel O'Day,1987,,$89.03,,GILD,,$27.4B
+Automatic Data Processing,Business Services & Supplies,$111.96 B,"56,000",USA,,,,Carlos Rodriguez,1949,,$269.90,,ADP,,$15.7B
+Rio Tinto,"Construction, Oil & Gas Operations, Mining and Chemicals",$113.15 B,"49,000",UK,"London, United Kingdom",,Basic Materials,Jakob Stausholm,1873,,$69.82,,RIO,,$63.5B
+Intuit,IT Software & Services,$114.59 B,"13,500",USA,"Mountain View, CA, United States",,Technology,Sasan Goodarzi,1983,,$407.92,,INTU,,$11.4B
+American Express,Banking and Financial Services,$117.12 B,"22,000",USA,"New York, NY, United States",,Financials,Stephen J. Squeri,1850,,$156.75,,AXP,,$46.3B
+Starbucks,Restaurants,$120.57 B,383.000,USA,"Seattle, WA, United States",,Consumer Discretionary,Howard Schultz,1971,,$105.05,,SBUX,,$30.23 B
+Intel,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",$121.37 B,"121,100",USA,"Santa Clara, CA, United States",,Technology,Patrick Gelsinger,1968,,$29.41,,INTC,,$79B
+Caterpillar,"Engineering, Manufacturing",$122.88 B,"107,700",USA,,,,James Umpleby,1925,,$236.13,,CAT,,$51B
+Target,Retail and Wholesale,$75.56 B,"450,000",USA,,,,Brian Cornell,1902,,$164.16,,TGT,,$106B
+Duke Energy,Utilities,$76.63 B,"27,605",USA,,,,Lynn J. Good,1904,,$99.52,,DUK,,$25.1B
+Progressive,Insurance,$77.51 B,"49,000",USA,,,,Tricia Griffith,1937,,$132.51,,PGR,,$48.1B
+Vertex Pharmaceuticals,Drugs & Biotechnology,$82.49 B,"3,900",USA,,,,Reshma Kewalramani,1989,,$321.37,,VRTX,,$7.6B
+Regeneron Pharmaceuticals,Drugs & Biotechnology,$83.46 B,"10,000",USA,,,,Leonard S. Schleifer,1988,,$766.39,,REGN,,$16.1B
+Northrop Grumman,Aerospace & Defense,$83.97 B,"90,000",USA,,,,Kathy Warden,1939,,$545.60,,NOC,,$35.7B
+Altria Group,"Food, Drink & Tobacco",$85.36 B,"6,000",USA,,,,Not found,1919,,$47.63,,MO,,$21.1B
+Analog Devices,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",$85.88 B,"24,700",USA,,,,Vincent T. Roche,1965,,$168.63,,ADI,,$8.4B
+Moderna,Drugs & Biotechnology,$70.05 B,3.7,USA,,,,Stéphane Bancel,2010,,$182.35,,MRNA,,$20.67 B
+Illinois Tool Works,Capital Goods,$70.12 B,"45,000",USA,,,,Ernest Scott Santi,1912,,$228.29,,,,$14.5B
+General Dynamics,Aerospace & Defense,$70.21 B,"89,775",USA,,,,Phebe N. Novakovic,1952,,$255.74,,GD,,$38.5B
+Becton Dickinson,Health Care Equipment & Services,$71.51 B,"72,000",USA,,,,Tom Polen,1897,,$252.38,,BDX,,$19.9B
+Zoetis,Drugs & Biotechnology,$73.36 B,"12,100",USA,,,,Kristin C. Peck,1952,,$157.42,,ZTS,,$7.8B
+Southern Company,Utilities,$73.31 B,"27,300",USA,,,,Tom Fanning,1945,,$67.34,,SO,,$23.2B
+Schlumberger,Oil & Gas Operations,$74.85 B,"92,000",USA,,,,Olivier Le Peuch,1926,,$52.79,,SLB,,$23.7B
+Waste Management,Utilities,$69.70 B,"48,500",USA,,,,Jim Fish,1971,,$169.81,,WM,,$17.9B
+Uber,IT Software & Services,$57.33 B,32.600,USA,,,,Dara Khosrowshahi,2009,,$28.75,,UBER,,$29.04 B
+London Stock Exchange,Diversified Financials,$59.00 B,"23,261",UK,,,,David Adam Schwimmer,1802,,$106.36,,LS4C.F,,$9.3B
+Norfolk Southern,Transportation,$58.82 B,18.100,USA,,,,Alan H. Shaw,1883,,$254.07,,NSC,,$12.36 B
+Activision Blizzard,Consumer Durables,$59.29 B,"9,800",USA,,,,Robert A. Kotick,2008,,$75.76,,ATVI,,$8.8B
+Micron Technology,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",$59.44 B,"43,000",USA,,,,Sanjay Mehrotra,1978,,$54.68,,MU,,$31.2B
+Truist Financial,Banking,$59.78 B,"52,641",USA,,,,William H. Rogers Jr.,1872,,$45.06,,TFC,,$23.2B
+Charter Communications,Media,$61.13 B,"93,700",USA,"Stamford, CT, United States",,Communication Services,Thomas M. Rutledge,1993,,$392.69,,CHTR,,$51.7B
+Blackstone Group,,$61.48 B,3.795,USA,,,,,,,$85.16,,BX,,$9.84 B
+Occidental Petroleum,Oil & Gas Operations,$61.99 B,"11,678",USA,,,,Vicki A. Hollub,1920,,$68.21,,OXY,,$26B
+Lam Research,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",$62.41 B,"16,300",USA,,,,Tim Archer,1980,,$457.67,,LRCX,,$16.7B
+Aon,Insurance,$63.45 B,"50,000",UK,,,,Gregory C. Case,1982,,$306.78,,AON,,$12.2B
+Equinix,Diversified Financials,$63.98 B,"10,944",USA,,,,Charles J. Meyers,1998,,$691.47,,EQIX,,$6.6B
+Boston Scientific,Health Care Equipment & Services,$66.74 B,41.000,USA,,,,Michael F. Mahoney,1979,,$46.60,,BSX,,$12.56 B
+Fiserv,Business Services & Supplies,$66.97 B,44.000,USA,,,,Frank J. Bisignano,1984,,$105.46,,FISV,,$17.36 B
+Humana,Drugs & Biotechnology,$69.22 B,"96,900",USA,,,,Bruce D. Broussard,1961,,$546.78,,HUM,,$84.1B
+Sempra Energy,Utilities—Diversified,$52.15 B,"15,390",USA,"San Diego, CA, United States",,Utilities,Mr. Jeffrey Walker Martin,1998,,$165.93,,SRE,,US$11.370 billion (Fiscal Year Ended 2020)
+Palo Alto Networks,Technology Hardware & Equipment,$52.21 B,12.561,USA,,,,Nikesh Arora,2005,,$172.69,,PANW,,$5.81 B
+Marriott International,Travel & Leisure,$52.42 B,"97,000",USA,,,,Anthony Capuano,1927,,$165.63,,MAR,,$13.9B
+Synopsys,IT Software & Services,$53.23 B,16.361,USA,,,,Dr. Aart de Geus,1986,,$348.17,,SNPS,,$4.94 B
+Anglo American,Materials,$54.20 B,"63,698",UK,,,,Duncan Graham Wanblad,1917,,$40.53,,AAL.L,,$41.5B
+Monster Beverage,"Food, Drink & Tobacco",$54.28 B,3.458,USA,,,,Rodney Cyril Sacks,1985,,$104.04,,MNST,,$6.22 B
+Keurig Dr Pepper,"Food, Drink & Tobacco",$54.86 B,"27,500",USA,,,,Robert James Gamgort,2018,,$38.74,,KDP,,$12.7B
+Dollar General,Retailing,$55.03 B,"163,000",USA,,,,Todd Vasos,1939,,$243.96,,DG,,$34.2B
+Moody's,Business Services & Supplies,$55.27 B,"13,460",USA,,,,Robert Scott Fauber,1909,,$301.73,,MCO,,$6.2B
+Marathon Petroleum,Oil & Gas Operations,$55.40 B,"17,700",USA,,,,Michael J. Hennigan,2009,,$118.23,,MPC,,$119.8B
+General Motors,Automotive (Automotive and Suppliers),$56.68 B,"94,448",USA,,,,Mary T. Barra,1908,,$39.90,,GM,,$127B
+Pioneer Natural Resources,Oil & Gas Operations,$56.88 B,"1,932",USA,,,,Scott Douglas Sheffield,1997,,$239.41,,PXD,,$17.9B
+Public Storage,REIT—Industrial,$52.09 B,5.800,USA,"Glendale, CA, United States",,Real Estate,Joseph D. Russell Jr.,1972,,$295.80,,PSA,,$4.01 B
+American International Group,Insurance,$46.62 B,"36,600",USA,,,,Peter S. Zaffino,1919,,$62.75,,AIG,,$52.1B
+Cintas,Business Services & Supplies,$46.96 B,43.000,USA,,,,Scott D. Farmer,1968,,$462.53,,CTAS,,$6.41 B
+Roper Technologies,Conglomerates,$47.07 B,"19,300",USA,,,,Laurence Neil Hunn,1981,,$443.87,,ROP,,$6.1B
+Edwards Lifesciences,Drugs & Biotechnology,$47.32 B,"16,000",USA,,,,Michael A. Mussallem,1958,,$76.55,,EW,,$5.2B
+Snowflake,IT Software & Services,$47.91 B,4.991,USA,,,,Frank Slootman,2012,,$149.74,,SNOW,,$1.63 B
+Corteva,Chemicals,$48.09 B,21.000,USA,,,,Chuck Magro,2019,,$67.31,,CTVA,,$17.10 B
+Amphenol,Technology Hardware & Equipment,$47.97 B,"90,000",USA,,,,Richard Adam Norwitt,1932,,$80.62,,APH,,$10.9B
+Constellation Brands,"Food, Drink & Tobacco",$48.15 B,"10,000",USA,,,,William A. Newlands Jr.,1945,,$261.05,,STZ,,$8.8B
+The Hershey Company,Confectioners,$48.13 B,16.620,USA,"Hershey, PA, United States",,Consumer Staples,Michele Buck,1894,,$234.73,,HSY,,$10.09 B
+Centene,Drugs & Biotechnology,$48.57 B,"72,500",USA,,,,Sarah London,1984,,$85.79,,CNC,,$126B
+Valero Energy,Oil & Gas Operations,$48.98 B,"9,813",USA,,,,Joseph W. Gorder,1980,,$127.07,,VLO,,$114B
+Phillips 66,Oil & Gas Refining & Marketing,$50.41 B,14.000,USA,"Houston, TX, United States",,Energy,Greg C. Garland,2012,,$106.66,,PSX,,$162.31 B
+Dominion Energy,Utilities,$50.38 B,"17,100",USA,,,,Robert M. Blue,1983,,$60.47,,D,,$14B
+General Mills,"Food, Soft Beverages, Alcohol & Tobacco",$51.35 B,"15,000",USA,,,,Jeffrey L. Harmening,1866,,$86.52,,GIS,,$18.6B
+Biogen,Drugs & Biotechnology,$43.04 B,"9,610",USA,,,,Michel Vounatsos,1978,,$298.90,,BIIB,,$10.4B
+Ecolab,Business Services & Supplies,$43.11 B,"47,000",USA,,,,Christophe Beck,1923,,$151.36,,ECL,,$12.7B
+Sysco,Food Markets,$43.24 B,"58,000",USA,,,,Kevin P. Hourican,1969,,$85.33,,SYY,,$60.7B
+Cheniere Energy,Oil & Gas Operations,$28.80 B,"1,550",USA,,,,Jack A. Fusco,1983,,$59.51,,LNG,,$17.6B
+Autodesk,"IT, Internet, Software & Services",$43.41 B,12.600,USA,,,,Andrew Anagnost,1982,,$201.11,,ADSK,,$4.63 B
+Workday,IT Software & Services,$43.77 B,16.918,USA,,,,Aneel Bhuri,2005,,$170.99,,WDAY,,$5.67 B
+Hess,Oil & Gas Operations,$44.40 B,"1,545",USA,,,,John B. Hess,1920,,$144.02,,HES,,$7.7B
+Republic Services,Business Services & Supplies,$44.40 B,35.000,USA,,,,Jon Vander Ark,1998,,$140.52,,RSG,,$12.41 B
+Chipotle Mexican Grill,"Hotels, Restaurants & Leisure",$44.48 B,"97,660",USA,,,,Brian R. Niccol,1993,,"$1,605",,CMG,,$7.5B
+Simon Property Group,Diversified Financials,$44.66 B,"3,300",USA,,,,David E. Simon,1993,,$119.34,,SPG,,$5.1B
+Aflac,Insurance,$44.98 B,"12,447",USA,,,,Daniel P. Amos,1955,,$72.34,,AFL,,$22.1B
+Devon Energy,Oil & Gas Operations,$44.75 B,"1,600",USA,,,,Rick Muncrief,1971,,$68.46,,DVN,,$13.7B
+Paychex,Business Services & Supplies,$45.40 B,16.000,USA,,,,Martin Mucci,1971,,$125.98,,PAYX,,$4.67 B
+Motorola Solutions,Aerospace & Defense,$45.59 B,18.700,USA,,,,Gregory Q. Brown,2011,,$272.70,,MSI,,$8.72 B
+Agilent Technologies,Health Care Equipment & Services,$45.92 B,"16,000",USA,,,,Michael R. McMullen,1999,,$155.67,,A,,$6.4B
+National Grid,Utilities,$46.33 B,"23,683",UK,,,,John Mark Pettigrew,1990,,$62.46,,NGG,,$20.8B
+Microchip Technology,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",$42.52 B,"21,000",USA,,,,Ganesh Moorthy,1989,,$77.31,,MCHP,,$6.4B
+Kinder Morgan,"Construction, Oil & Gas Operations, Mining and Chemicals",$42.70 B,"11,000",USA,,,,Steven J. Kean,1997,,$19.00,,KMI,,$16.6B
+Capital One,Banking and Financial Services,$37.28 B,"50,767",USA,,,,Richard D. Fairbank ,1994,,$97.69,,COF,,$32.1B
+Waste Connections,Business Services & Supplies,$37.40 B,"19,998",USA,,,,Worthing F. Jackman,2002,,$145.45,,WCN,,$6.2B
+Xcel Energy,Utilities,$37.83 B,"11,321",USA,,,,Robert Frenzel,1909,,$69.14,,XEL,,$13.4B
+Realty Income,Diversified Financials,$39.44 B,371,USA,,,,Sumit Roy,1969,,$62.90,,O,,$2.1B
+Lloyds Banking Group,Banking,$39.28 B,"57,955",UK,,,,Charlie Nunn,2009,,$2.27,,LYG,,$58.5B
+Prudential Financial,Banking and Financial Services,$39.62 B,"15,364",USA,,,,Charles F. Lowrey,1875,,$107.68,,PRU,,$70.9B
+Nucor,Materials,$39.55 B,"28,800",USA,,,,Leon J. Topalian,1905,,$154.20,,NUE,,$40B
+Compass Group,"Hotels, Restaurants & Leisure",$40.50 B,"478,070",UK,,,,Dominic Blakemore,1994,,$23.06,,CPG.L,,$24.5B
+Block,IT Software & Services,$40.77 B,"8,521",USA,,,,Jack Patrick Dorsey,2009,,$68.18,,SQ,,$17.7B
+Apollo Global Management,Diversified Financials,$40.95 B,"1,509",USA,,,,Marc Jeffrey Rowan,1990,,$68.25,,APO,,$4.8B
+Exelon Corporation,Utilities—Diversified,$41.19 B,"31,518",USA,"Chicago, IL, United States",,Utilities,Mr. Christopher Mark Crane,"October 20, 2000",,$41.45,,EXC,,US$33.039 Billion (Fiscal Year Ended 31 December 2020)
+Ross Stores,Retailing,$41.30 B,100.000,USA,,,,Barbara Rentler,1982,,$119.00,,ROST,,$18.50 B
+Arista Networks,Technology Hardware & Equipment,$41.49 B,"2,993",USA,,,,Jayshree V. Ullal,2004,,$135.04,,ANET,,$2.9B
+Arthur J. Gallagher & Co.,Insurance Brokers,$42.43 B,"39,000",USA,"Rolling Meadows, IL, United States",,Financials,Mr. J. Patrick Gallagher Jr.,1927,,$201.26,,AJG,,"US$7.003 Billion (Fiscal Year Ended December 31, 2020)"
+Fortinet,Technology Hardware & Equipment,$41.88 B,"10,195",USA,,,,Ken Xie,2000,,$53.61,,FTNT,,$3.3B
+Allstate,Insurance,$34.70 B,"54,700",USA,,,,Thomas Joseph Wilson II,1931,,$130.85,,ALL,,$50.6B
+Consolidated Edison,Utilities,$34.54 B,"13,871",USA,,,,Timothy P. Cawley,1823,,$97.35,,ED,,$13.7B
+Prudential,Banking and Financial Services,$34.83 B,"14,486",UK,,,,Mark Thomas FitzPatrick,1848,,$25.34,,PUK,,$26.5B
+Ameriprise Financial,Diversified Financials,$35.13 B,"12,000",USA,,,,James Michael Cracchiolo,1894,,$330.18,,AMP,,$13.9B
+Cummins,"Engineering, Manufacturing",$35.22 B,"58,000",USA,,,,Tom Linebarger,1919,,$249.75,,CMI,,$24B
+Halliburton,Oil & Gas Operations,$35.29 B,"40,000",USA,,,,Jeff Miller,1919,,$38.87,,HAL,,$16.1B
+Jardine Matheson,Conglomerates,$35.24 B,"400,000",Hong Kong,,,,John Raymond Witt,1832,,$48.88,,J36.SI,,$35.9B
+Dow,"Construction, Oil & Gas Operations, Mining and Chemicals",$36.27 B,"35,700",USA,,,,Jim Fitterling,1897,,$51.55,,DOW,,$58.4B
+Yum! Brands,"Hotels, Restaurants & Leisure",$36.52 B,"36,000",USA,,,,David W. Gibbs,1997,,$129.68,,YUM,,$6.6B
+Electronic Arts,Consumer Durables,$36.51 B,"11,000",USA,,,,Andrew P. Wilson,1982,,$132.28,,EA,,$6.6B
+Las Vegas Sands,"Hotels, Restaurants & Leisure",$36.64 B,"44,700",USA,,,,Robert Glen Goldstein,1988,,$47.96,,LVS,,$4.2B
+Paccar,Automotive (Automotive and Suppliers),$36.79 B,28.500,USA,,,,Preston Feight,1972,,$105.79,,PCAR,,$27.37 B
+Vodafone,"Telecommunications Services, Cable Supplier",$31.35 B,"104,000",UK,,,,Nicholas Jonathan Read,1984,,$11.25,,VOD,,$53.6B
+Copart,Business Services & Supplies,$31.98 B,"8,600",USA,,,,Aaron Jayson Adair,1982,,$67.15,,CPRT,,$3.2B
+Digital Realty,,$32.56 B,3.03,USA,,,,,,,$110.85,,DLR,,$4.56 B
+Interactive Brokers,,$32.80 B,2.571,USA,,,,,,,$78.71,,IBKR,,$3.43 B
+Ametek,Conglomerates,$33.15 B,"18,500",USA,,,,David A. Zapico,1930,,$144.39,,AME,,$5.5B
+Albemarle,Chemicals,$33.30 B,"6,000",USA,,,,Jerry Kent Masters,1993,,$284.28,,ALB,,$3.3B
+Otis Worldwide,"Engineering, Manufacturing",$33.22 B,"70,000",USA,,,,Judith F. Marks,1853,,$79.75,,OTIS,,$14.3B
+Dollar Tree,Retailing,$33.44 B,"210,565",USA,,,,Michael A. Witynski,1986,,$151.20,,DLTR,,$26.3B
+Old Dominion Freight Line,Transportation,$33.45 B,"23,663",USA,,,,Greg C. Gantt,1934,,$302.85,,ODFL,,$5.3B
+Haleon,,$33.44 B,22.0,UK,,,,,,,$7.15,,HLN,,$8.55 B
+Welltower,Diversified Financials,$33.58 B,464,USA,,,,Shankh Mitra,1970,,$71.08,,WELL,,$4.7B
+Kroger,Food Markets,$34.05 B,"420,000",USA,,,,W. Rodney McMullen,1883,,$47.57,,KR,,$137.9B
+Illumina,Drugs & Biotechnology,$34.41 B,"7,800",USA,,,,Francis A. deSouza,1998,,$218.76,,ILMN,,$4.5B
+Fastenal,Trading Companies,$29.45 B,19.519,USA,,,,Daniel L. Florness,1967,,$51.43,,FAST,,$6.81 B
+Oneok,Oil & Gas Operations,$30.03 B,"2,847",USA,,,,Pierce H. Norton II,1906,,$67.20,,OKE,,$17.3B
+Constellation Energy,Utilities,$30.09 B,"11,696",USA,,,,Joseph Dominguez,Not found,,$92.04,,CEG,,$19.6B
+Rockwell Automation,Capital Goods,$30.48 B,"24,500",USA,,,,Blake Moret,1903,,$265.49,,ROK,,$7.3B
+Barclays,Banking and Financial Services,$30.99 B,"83,500",UK,,,,C. S. Venkatakrishnan,1896,,$7.82,,BCS,,$30.2B
+Verisk Analytics,Insurance,$29.00 B,9.367,USA,,,,Scott G. Stephenson,1971,,$185.44,,VRSK,,$3.03 B
+Eversource Energy,Utilities—Regulated Electric,$29.15 B,9.227,USA,"Springfield, MA, United States",,Utilities,James J. Judge,1996,,$83.71,,ES,,$11.73 B
+Genuine Parts Company,Specialty Retail,$26.43 B,"52,000",USA,"Atlanta, GA, United States",,Consumer Discretionary,Mr. Paul D. Donahue,1925,,$187.28,,GPC,,
+Ashtead,,$27.13 B,22.807,UK,,,,,,,$61.60,,0LC.F,,$8.87 B
+Veeva Systems,IT Software & Services,$27.15 B,"5,482",USA,,,,Peter P. Gassner,2007,,$174.90,,VEEV,,$1.9B
+International Flavors & Fragrances,Household & Personal Products,$27.52 B,"24,000",USA,,,,Franklin K. Clyburn,1833,,$107.97,,IFF,,$11.7B
+Rivian,Automotive,$27.70 B,"10,422",USA,,,,Robert Joseph Scaringe,2009,,$31.36,,RIVN,,$55M
+Gartner,Business Services & Supplies,$27.81 B,"16,600",USA,,,,Eugene A. Hall,1979,,$351.99,,IT,,$4.7B
+Warner Bros. Discovery,Media,$27.80 B,"11,000",USA,,,,David M. Zaslav,2022,,$11.55,,WBD,,$12.2B
+Global Payments,Business Services & Supplies,$27.87 B,"25,000",USA,,,,Jeffrey Steven Sloan,2000,,$103.08,,GPN,,$8.5B
+American Water Works,Utilities,$27.95 B,"6,400",USA,,,,M. Susan Hardwick,1886,,$153.74,,AWK,,$3.9B
+State Street Corporation,Asset Management,$28.51 B,"38,784",USA,"Boston, MA, United States",,Financials,Mr. Ronald Philip O'Hanley,1792,,$77.72,,STT,,US$12.03 billion (2021)
+Corning,"Engineering, Manufacturing",$28.75 B,"61,000",USA,,,,Wendell P. Weeks,1851,,$34.00,,GLW,,$14.1B
+Discover Financial Services,Credit Services,$28.79 B,"16,700",USA,"Riverwoods, IL, United States",,Financials,Roger C. Hochschild,1985,,$105.40,,DFS,,$12.8B
+Edison International,Utilities—Regulated Electric,$24.96 B,"13,003",USA,"Rosemead, CA, United States",,Utilities,Pedro J. Pizarro,1886,,$65.37,,EIX,,$14.9B
+Tractor Supply,Retailing,$24.84 B,50.000,USA,,,,Harry A. Lawton III,1938,,$224.94,,TSCO,,$13.51 B
+Lennar,Construction,$25.14 B,"10,753",USA,,,,Rick Beckwitt Jon Jaffe,1954,,$88.30,,LEN,,$28.4B
+Equity Residential,REIT—Residential,$25.12 B,"2,400",USA,"Chicago, IL, United States",,Real Estate,Mark J. Parrell,1993,,$64.11,,EQR,,$2.4B
+Alexandria Real Estate Equities,Diversified Financials,$25.15 B,559,USA,,,,"Peter M. Moglia, Stephen A. Richardson",1994,,$153.32,,ARE,,$2.1B
+Diamondback Energy,Oil & Gas Operations,$25.60 B,870.0,USA,,,,Travis D. Stice,2007,,$145.46,,FANG,,$9.63 B
+Zimmer Biomet,Health Care Equipment & Services,$25.80 B,"19,500",USA,,,,Bryan C. Hanson,1927,,$122.97,,ZBH,,$7.8B
+Hormel Foods,"Food, Drink & Tobacco",$26.02 B,"20,000",USA,,,,Jim Snee,1891,,$47.64,,HRL,,$12B
+Entergy,Utilities,$24.45 B,"12,500",USA,,,,Leo Denault,1913,,$115.91,,ETR,,$11.7B
+Vulcan Materials,Construction,$24.52 B,"11,437",USA,,,,J. Thomas Hill,1909,,$184.49,,VMC,,$5.6B
+Equifax,Business Services & Supplies,$24.65 B,"12,700",USA,,,,Mark Begor,1899,,$201.38,,EFX,,$5.1B
+United Rentals,Business Services & Supplies,$24.71 B,20.400,USA,,,,Matthew John Flannery,1997,,$356.57,,URI,,$11.12 B
+Extra Space Storage,Diversified Financials,$22.34 B,"4,309",USA,,,,Joseph D. Margolis,2004,,$159.00,,EXR,,$1.6B
+Ansys,IT Software & Services,$22.36 B,5.300,USA,,,,Ajei S. Gopal,1970,,$256.74,,ANSS,,$2.02 B
+Ares Management,Diversified Financials,$22.43 B,"2,100",USA,,,,Michael J. Arougheti,1997,,$75.97,,ARES,,$4.3B
+Seagen,Drugs & Biotechnology,$22.72 B,2.675,USA,,,,Clay B. Siegall,1997,,$122.41,,SGEN,,$1.86 B
+Ameren,Utilities,$22.76 B,"9,116",USA,,,,Martin J. Lyons JR.,1902,,$88.04,,AEE,,$6.4B
+Delta Air Lines,Transportation and Logistics,$22.89 B,"81,000",USA,,,,Ed Bastian,1924,,$35.71,,DAL,,$35.1B
+First Republic Bank,Banks,$23.07 B,"6,295",USA,"San Francisco, CA, United States",,Financials,Michael J. Roffler,1985,,$126.17,,FRC,,$5.5B
+Southwest Airlines,Transportation and Logistics,$23.60 B,"55,000",USA,,,,Robert E. Jordan,1967,,$39.75,,LUV,,$15.8B
+Datadog,IT Software & Services,$23.72 B,"3,200",USA,,,,Olivier Pomel,2010,,$74.71,,DDOG,,$1B
+Tyson Foods,"Food, Drink & Tobacco",$23.74 B,137.000,USA,,,,Donnie King,1935,,$66.02,,TSN,,$53.28 B
+Weyerhaeuser,Diversified Financials,$23.85 B,"9,214",USA,,,,Devin W. Stockfish,1900,,$32.42,,WY,,$10.2B
+Fortive,Technology Hardware & Equipment,$24.14 B,"18,000",USA,,,,James A. Lico,2015,,$68.24,,FTV,,$5.3B
+Imperial Brands,"Food, Drink & Tobacco",$24.16 B,"30,300",UK,,,,Stefan Bomhard,1901,,$25.48,,ITBA.F,,$22.7B
+Ferguson,Trading Companies,$24.24 B,"34,352",UK,,,,Kevin M. Murphy,1887,,$116.64,,FERG,,$22.7B
+Fifth Third Bank,Banking,$24.19 B,"19,112",USA,,,,Greg D. Carmichael,1858,,$35.25,,FITB,,$8.3B
+Hewlett Packard Enterprise,"IT, Internet, Software & Services",$21.47 B,"60,400",USA,,,,Antonio Neri,2015,,$16.69,,HPE,,$27.9B
+Regions Financial,Banking and Financial Services,$21.64 B,"19,626",USA,,,,"John M. Turner, Jr.",1971,,$23.16,,RF,,$6.6B
+Quanta Services,Construction,$21.87 B,"43,700",USA,,,,Earl C. Austin Jr.,1997,,$153.07,,PWR,,$13B
+Ingersoll Rand,Capital Goods,$22.08 B,"16,000",Ireland,,,,Vicente Reynal,1872,,$54.55,,IR,,$5.4B
+Cardinal Health,Retail and Wholesale,$21.20 B,"48,000",USA,,,,Mike Kaufmann,1971,,$80.88,,CAH,,$171.3B
+Invitation Homes,Diversified Financials,$19.86 B,"1,240",USA,,,,Dallas B. Tanner,2012,,$32.36,,INVH,,$1.8B
+Dover,Conglomerates,$20.13 B,"25,000",USA,,,,Richard Joseph Tobin,1955,,$143.49,,DOV,,$8.1B
+Church & Dwight,Household & Personal Products,$20.25 B,"5,100",USA,,,,Matthew T. Farrell,1846,,$83.07,,CHD,,$5.2B
+Citizens Financial Group,Banking,$20.53 B,"17,463",USA,,,,Bruce Winfield van,1828,,$41.70,,CFG,,$6.9B
+Waters Corporation,Diagnostics & Research,$20.63 B,"7,800",USA,"Milford, MA, United States",,Healthcare,Dr. Udit Batra Ph.D.,1958,,$347.37,,WAT,,"US$2,309 million (2017)"
+Tesco,Retail and Wholesale,$20.69 B,"345,000",UK,,,,Ken Murphy,1919,,$2.68,,TSCDF,,$84.2B
+Standard Chartered,Banking,$21.09 B,"81,957",UK,,,,William Thomas Winters,1969,,$7.29,,STAN.L,,$18.9B
+Nu Holdings,IT Software & Services,$20.89 B,"6,075",Brazil,,,,David Vélez Osorno,2016,,$4.46,,NU,,$1.4B
+Hologic,Health Care Equipment & Services,$18.80 B,"6,705",USA,,,,Stephen P. MacMillan,1985,,$76.50,,HOLX,,$5.5B
+Marathon Oil,Oil & Gas Operations,$18.88 B,"1,531",USA,,,,Lee M. Tillman,1887,,$29.74,,MRO,,$5.6B
+Chewy,Retail and Wholesale,$18.98 B,"20,000",USA,,,,Sumit Singh,2011,,$44.92,,CHWY,,$8.9B
+Northern Trust,Banking,$19.10 B,"21,100",USA,,,,Michael G. O'Grady,1889,,$91.66,,NTRS,,$6.6B
+Steel Dynamics,"Engineering, Manufacturing",$19.23 B,10.640,USA,,,,Mark D. Millet,1993,,$109.55,,STLD,,$22.74 B
+Royalty Pharma,Drugs & Biotechnology,$19.41 B,66,UK,,,,Pablo Gerardo Legorreta,2020,,$43.85,,RPRX,,$2.3B
+Best Buy,Retail and Wholesale,$19.49 B,"105,000",USA,,,,Corie Barry,1966,,$86.60,,BBY,,$51.8B
+Molina Healthcare,Drugs & Biotechnology,$19.51 B,"14,000",USA,,,,Joseph M. Zubretsky,1980,,$334.17,,MOH,,$27.8B
+Darden Restaurants,"Hotels, Restaurants & Leisure",$17.80 B,"156,883",USA,,,,Gene Lee,1968,,$145.48,,DRI,,$9.3B
+Monolithic Power Systems,,$17.98 B,2.773,USA,,,,,,,$383.21,,MPWR,,$1.67 B
+Markel,Banking and Financial Services,$18.07 B,"20,300",USA,,,,Richard R. Whitt III Thomas S. Gayner,1930,,"$1,344",,MKL,,$12.8B
+Conagra Brands,"Food, Drink & Tobacco",$18.26 B,"18,600",USA,,,,Sean M. Connolly,1919,,$38.12,,CAG,,$11.4B
+Sun Communities,Business Services & Supplies,$18.45 B,"45,000",USA,,,,Gary A. Shiffman,1975,,$146.08,,SUI,,$2.3B
+Incyte,Drugs & Biotechnology,$18.49 B,"2,094",USA,,,,Herve Hoppenot,1991,,$83.13,,INCY,,$3B
+Ventas,Diversified Financials,$18.48 B,434,USA,,,,Debra A. Cafaro,1983,,$46.24,,VTR,,$3.8B
+Clorox,Packaged Goods,$18.59 B,"6,390",USA,,,,Linda Rendle,1913,,$150.68,,CLX,,$7.1B
+Zscaler,Business Services & Supplies,$18.60 B,4.975,USA,,,,Jagtar Singh Chaudhry,2007,,$128.99,,ZS,,$1.09 B
+Rocket Companies,Business Services & Supplies,$16.71 B,Not found,USA,,,,Jay Farner,1985,,$8.41,,RKT,,$10B
+The Mosaic Company,Agricultural Inputs,$16.78 B,"13,000",USA,"Tampa, FL, United States",,Basic Materials,James Calvin O'Rourke,2004,,$49.31,,MOS,,$12.4B
+Rentokil Initial,,$16.84 B,46.0,UK,,,,,,,$6.68,,RTO.L,,$3.99 B
+Pinterest,,$16.86 B,3.728,USA,,,,,,,$24.86,,PINS,,$2.77 B
+Brown & Brown,Insurance,$16.85 B,"12,023",USA,,,,J. Powell Brown,1939,,$59.52,,BRO,,$3.1B
+Unity Software,IT Software & Services,$16.91 B,5.245,USA,,,,John Salvatore Riccitiello,2004,,$40.94,,U,,$1.25 B
+Snap,IT Software & Services,$16.93 B,5.661,USA,,,,Evan Thomas Spiegel,2010,,$10.50,,SNAP,,$4.59 B
+Targa Resources,Oil & Gas Operations,$17.02 B,"2,430",USA,,,,Matthew J. Meloy,2005,,$75.19,,TRGP,,$17.4B
+Lucid Motors,Automotive,$17.05 B,"3,900",USA,,,,Peter Rawlinson,2018,,$10.15,,LCID,,$27M
+Quest Diagnostics,Health Care Equipment & Services,$17.13 B,"49,000",USA,,,,Steve Rusckowski,1967,,$150.46,,DGX,,$10.7B
+Fox Corporation,Broadcasting,$17.16 B,"9,000",USA,"New York, NY, United States",,Communication Services,Mr. Lachlan Keith Murdoch,"January 1, 2019",,$30.61,,FOX,,US$12.3 billion (2020)
+Antofagasta,Materials,$17.38 B,"27,000",UK,,,,Iván Arriagada Herrera,1888,,$17.64,,ANTO.L,,$7.5B
+Cincinnati Financial,Insurance,$17.35 B,"5,166",USA,,,,Steven J. Johnston,1950,,$110.41,,CINF,,$9.6B
+Ball Corporation,Packaging & Containers,$17.51 B,24.300,USA,"Westminster, CA, United States",,Consumer Discretionary,Mr. John A. Hayes,1880,,$55.81,,BALL,,$15.47 B
+Atmos Energy,Oil & Gas Operations,$15.93 B,"4,684",USA,,,,Kevin Akers,1906,,$113.00,,ATO,,$3.5B
+Essex Property Trust,Diversified Financials,$14.65 B,1.739,USA,,,,Michael J. Schall,1971,,$218.61,,ESS,,$1.56 B
+International Paper,Materials,$13.08 B,"31,000",USA,,,,Mark S. Sutton,1898,,$36.80,,IP,,$21.8B
+Graco,,$11.61 B,3.8,USA,,,,,,,$68.93,,GGG,,$2.12 B
+American Financial Group,Insurance,$11.64 B,"6,600",USA,,,,"Carl Henry Lindner, III, S. Craig Lindner, Jr.",1959,,$136.74,,AFG,,$6.2B
+Stanley Black & Decker,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",$11.87 B,"71,300",USA,,,,James M. Loree,1843,,$80.27,,SWK,,$16.8B
+Ovintiv,Oil & Gas Operations,$12.09 B,"1,713",USA,,,,Brendan M. McCracken,1881,,$48.73,,OVV,,$10.5B
+Match Group,IT Software & Services,$12.16 B,"2,540",USA,,,,Sharmistha Dubey,2009,,$43.55,,MTCH,,$3B
+Avantor,Chemicals,$15.52 B,"13,500",USA,,,,Michael Stubblefield,1904,,$23.02,,AVTR,,$7.4B
+Freddie Mac,Business Services & Supplies,$10.06 B,"7,318",USA,,,,Michael J. DeVito,1970,,$3.12,,FMCCT,,$62.2B
+News Corp,Media,$11.16 B,"24,000",USA,,,,Robert James Thomson,1922,,$19.64,,NWS,,$10B
+Boston Properties,Diversified Financials,$11.16 B,743,USA,,,,Owen D. Thomas,1970,,$71.20,,BXP,,$2.9B
+Dick's Sporting Goods,Retail and Wholesale,$10.26 B,"50,800",USA,,,,Lauren R. Hobart,1948,,$123.05,,DKS,,$12.3B
+Bath & Body Works,Retailing,$10.28 B,"56,900",USA,,,,Andrew Meslow,1990,,$45.01,,BBWI,,$11.1B
+Comerica,Banking,$9.05 B,7.432,USA,,,,Curtis C. Farmer,1849,,$69.13,,CMA,,$3.26 B
+Churchill Downs,,$9.09 B,3.8,USA,,,,,,,$243.12,,CHDN,,$1.69 B
+Owens Corning,Construction,$8.35 B,"20,000",USA,,,,Brian D. Chambers,1938,,$88.41,,OC,,$8.5B
+St. James's Place,Insurance,$8.36 B,"2,014",UK,,,,Andrew Martin Croft,Not found,,$15.09,,STJ.L,,$24.4B
+Penske Automotive,Retail and Wholesale,$8.39 B,"26,891",USA,,,,Roger S. Penske Sr.,1992,,$117.69,,PAG,,$25.6B
+Voya Financial,Insurance,$6.60 B,6.000,USA,,,,Rodney Owen Martin Jr.,1999,,$67.96,,VOYA,,$6.05 B
+Macy's,Retailing,$6.17 B,"88,857",USA,,,,Jeffrey Gennette,1929,,$22.76,,M,,$25.3B
+Toll Brothers,Construction,$6.18 B,"5,100",USA,,,,Douglas C. Yearley,1986,,$55.86,,TOL,,$9B
+Thor Industries,Consumer Durables,$4.71 B,"31,000",USA,,,,Robert W. Martin,1980,,$88.05,,THO,,$14.9B
+Atkore,,$4.73 B,3.4,USA,,,,,,,$118.88,,ATKR,,$3.91 B
+Hawaiian Electric Industries,,$4.48 B,3.597,USA,,,,,,,$40.99,,HE,,$3.49 B
+Hancock Whitney,,$4.14 B,3.607,USA,,,,,,,$48.18,,HWC,,$1.32 B
+Affirm,,$4.14 B,2.552,USA,,,,,,,$14.30,,AFRM,,$1.44 B
+Altair Engineering,,$4.16 B,3.05,USA,,,,,,,$51.93,,ALTR,,$0.55 B
+Jackson Financial,Diversified Financials,$3.38 B,"3,500",USA,,,,Laura L. Prieskorn,Not found,,$40.72,,JXN,,$8.8B
+Armstrong World Industries,,$3.39 B,2.96,USA,,,,,,,$74.25,,AWI,,$1.21 B
+Mr. Cooper Group,Insurance,$3.16 B,"8,200",USA,,,,Jesse K. Bray,1994,,$44.86,,COOP,,$2.9B
+Mercury Systems,,$2.80 B,2.386,USA,,,,,,,$48.46,,MRCY,,$0.99 B
+Dorman Products,,$2.81 B,3.36,USA,,,,,,,$89.56,,DORM,,$1.63 B
+Sprinklr,,$2.29 B,3.245,USA,,,,,,,$8.79,,CXM,,$0.58 B
+Quilter,Diversified Financials,$1.71 B,"4,343",UK,,,,Paul W. Feeney,2007,,$1.19,,QLT.L,,$6.4B
+Montrose Environmental,,$1.56 B,2.8,USA,,,,,,,$52.79,,MEG,,$0.54 B
+Mirion Technologies,,$1.57 B,2.8,USA,,,,,,,$7.59,,MIR,,$0.66 B
+Malibu Boats,,$1.17 B,3.015,USA,,,,,,,$57.55,,MBUU,,$1.26 B
+Select Energy Services,,$0.98 B,3.0,USA,,,,,,,$8.61,,WTTR,,$1.26 B
+Verano Holdings,,$0.99 B,3.888,USA,,,,,,,$3.06,,VRNOF,,$0.81 B
+Grid Dynamics,,$0.90 B,3.763,USA,,,,,,,$12.29,,GDYN,,$0.29 B
+Hibbett Sports,,$0.83 B,3.6,USA,,,,,,,$65.96,,HIBB,,$1.63 B
+Protolabs,,$0.77 B,2.663,USA,,,,,,,$28.43,,PRLB,,$0.49 B
+Denny's,,$0.70 B,3.3,USA,,,,,,,$12.30,,DENN,,$0.44 B
+Vishay Precision Group,,$0.57 B,2.6,USA,,,,,,,$42.66,,VPG,,$0.35 B
+Marcus Corporation,,$0.47 B,2.925,USA,,,,,,,$15.00,,MCS,,$0.68 B
+Preformed Line Products,,$0.42 B,2.927,USA,,,,,,,$85.65,,PLPC,,$0.59 B
+Gravity Co.,,$0.34 B,335.0,South Korea,,,,,,,$49.06,,GRVY,,$0.30 B
+Lands' End,,$0.26 B,3.0,USA,,,,,,,$7.93,,LE,,$1.58 B
+Homepoint,,$0.23 B,3.2,USA,,,,,,,$1.71,,HMPT,,$0.35 B
+Audacy,,$41.23 M,3.586,USA,,,,,,,$0.28,,AUD,,$1.25 B
+Castellum,Construction,$47.77 M,427,USA,,,,Hans Jarl Rutger Arnhult,Not found,,$1.15,,CAST.ST,,$738M
+Horizon Global,,$47.97 M,3.8,USA,,,,,,,$1.73,,HZN,,$0.67 B
+Express,,$68.99 M,3.0,USA,,,,,,,$1.01,,EXPR,,$1.94 B
+Gaia,Food & Beverage,$74.94 M,150.0,USA,,,,,2013,,$3.60,,GAIA,,$83.28 M
+Ayr Wellness,,$90.05 M,2.375,USA,,,,,,,$1.28,,AYRWF,,$0.45 B
+Barnes & Noble Education,,$96.78 M,3.0,USA,,,,,,,$1.84,,BNED,,$1.54 B
+Harte Hanks,,$98.13 M,2.5,USA,,,,,,,$13.41,,HHS,,$0.29 B
+Glatfelter,,$0.14 B,3.25,USA,,,,,,,$3.31,,GLT,,$1.45 B
+Rite Aid,Retailing,$0.18 B,"50,000",USA,,,,Heyward R. Donigan,1968,,$3.32,,RAD,,$24.6B
+Hill International,,$0.19 B,2.578,USA,,,,,,,$3.40,,HIL,,$0.40 B
+Atlas Technical Consultants,,$0.19 B,3.6,USA,,,,,,,$5.22,,ATCX,,$0.59 B
+Big 5 Sporting Goods,,$0.20 B,2.4,USA,,,,,,,$9.45,,BGFV,,$1.03 B
+Matrix Service,,$0.21 B,2.81,USA,,,,,,,$7.85,,MTRX,,$0.74 B
+American Public Education,,$0.23 B,2.59,USA,,,,,,,$12.42,,APEI,,$0.60 B
+Conn's,,$0.24 B,3.5,USA,,,,,,,$10.14,,CONN,,$1.41 B
+Groupon,,$0.24 B,3.675,USA,,,,,,,$8.01,,GRPN,,$0.67 B
+Columbia Care,,$0.31 B,2.586,USA,,,,,,,$0.72,,CCHWF,,$0.52 B
+First Bancorp,,$0.32 B,1.179,USA,,,,,,,$28.99,,FBNC,,$0.37 B
+Tredegar,,$0.39 B,2.4,USA,,,,,,,$11.59,,TG,,$0.97 B
+Civeo,,$0.43 B,2.4,USA,,,,,,,$32.07,,CVEO,,$0.69 B
+Biglari,,$0.45 B,2.633,USA,,,,,,,$148.48,,BH,,$0.36 B
+Covenant Logistics,,$0.49 B,3.0,USA,,,,,,,$36.66,,CVLG,,$1.21 B
+World Acceptance Corporation,,$0.49 B,3.121,USA,,,,,,,$79.88,,WRLD,,$0.57 B
+Oppenheimer Holdings,,$0.51 B,2.866,USA,,,,,,,$47.11,,OPY,,$1.16 B
+The Children's Place,,$0.52 B,3.5,USA,,,,,,,$42.80,,PLCE,,$1.76 B
+Havertys,,$0.54 B,2.845,USA,,,,,,,$33.50,,HVT,,$1.03 B
+Ribbon Communications,,$0.54 B,3.685,USA,,,,,,,$3.26,,RBBN,,$0.81 B
+Oil States International,,$0.55 B,2.373,USA,,,,,,,$8.63,,OIS,,$0.69 B
+Calavo Growers,,$0.56 B,3.676,USA,,,,,,,$31.99,,CVGW,,$1.19 B
+Clearwater Paper,,$0.57 B,3.0,USA,,,,,,,$34.60,,CLW,,$2.04 B
+Cresco Labs,,$0.58 B,3.5,USA,,,,,,,$1.95,,CRLBF,,$0.86 B
+Bright Health,,$0.59 B,3.203,USA,,,,,,,$0.94,,BHG,,$6.00 B
+Interface,,$0.61 B,3.646,USA,,,,,,,$10.56,,TILE,,$1.30 B
+Ducommun,,$0.65 B,2.48,USA,,,,,,,$54.12,,DCO,,$0.68 B
+Accolade,Property,$0.66 B,None,USA,,,Property,,2010,,$9.17,,ACCD,,"83,981,636"
+Valhi,,$0.68 B,2.847,USA,,,,,,,$24.18,,VHI,,$2.50 B
+Thryv,,$0.72 B,2.604,USA,,,,,,,$21.00,,THRY,,$1.16 B
+Boohoo Group,Retail,$0.79 B,1562,UK,,,,,2006,,$0.56,,BOO.L,,680.3
+Qurate Retail Group,Retailing,$0.79 B,"26,659",USA,,,,David Rawlinson,2018,,$2.01,,QRTEA,,$14B
+Quanex Building Products,,$0.80 B,3.86,USA,,,,,,,$24.17,,NX,,$1.22 B
+Shinpoong Pharm,,$0.82 B,815.0,South Korea,,,,,,,$16.69,,019170.KS,,$0.15 B
+Bristow Group,,$0.82 B,2.916,USA,,,,,,,$29.45,,VTOL,,$1.19 B
+Mission Produce,,$0.84 B,2.8,USA,,,,,,,$11.99,,AVO,,$1.04 B
+Myers Industries,,$0.87 B,2.725,USA,,,,,,,$23.88,,MYE,,$0.88 B
+Century Aluminum,,$0.97 B,2.512,USA,,,,,,,$10.64,,CENX,,$2.90 B
+Suburban Propane Partners,,$1.01 B,3.131,USA,,,,,,,$15.94,,SPH,,$1.50 B
+Opendoor,,$1.01 B,2.816,USA,,,,,,,$1.60,,OPEN,,$16.53 B
+National Express Group,,$1.08 B,44.5,UK,,,,,,,$1.68,,NEX.L,,$2.92 B
+The Andersons,,$1.19 B,2.371,USA,,,,,,,$35.80,,ANDE,,$16.43 B
+Standex,,$1.28 B,3.8,USA,,,,,,,$107.01,,SXI,,$0.74 B
+Medifast,,$1.29 B,984.0,USA,,,,,,,$118.22,,MED,,$1.63 B
+John Wood Group,,$1.29 B,33.1,UK,,,,,,,$1.81,,WG.L,,$6.40 B
+Heartland Express,,$1.31 B,3.18,USA,,,,,,,$16.68,,HTLD,,$0.76 B
+Kratos Defense & Security Solutions,,$1.33 B,3.3,USA,,,,,,,$10.60,,KTOS,,$0.86 B
+The Chefs' Warehouse,,$1.38 B,2.712,USA,,,,,,,$36.16,,CHEF,,$2.38 B
+Monarch Casino & Resort,,$1.46 B,2.65,USA,,,,,,,$77.02,,MCRI,,$0.46 B
+Infinera,,$1.61 B,3.225,USA,,,,,,,$7.34,,INFN,,$1.48 B
+Myriad Genetics,,$1.64 B,2.4,USA,,,,,,,$20.35,,MYGN,,$0.66 B
+Tenneco,Consumer Durables,$1.66 B,"71,000",USA,,,,Brian Kesseler,1940,,$19.99,,TEN,,$18B
+Savills,,$1.67 B,39.118,UK,,,,,,,$11.48,,SVS.L,,$2.89 B
+Cohu,,$1.68 B,3.075,USA,,,,,,,$35.41,,COHU,,$0.81 B
+World Fuel Services,Trading Companies,$1.72 B,"4,414",USA,,,,Michael J. Kasbar,1984,,$27.93,,INT,,$54.8B
+Materion,,$1.85 B,3.443,USA,,,,,,,$90.36,,MTRN,,$1.71 B
+Babcock International Group,,$1.88 B,28.341,UK,,,,,,,$3.68,,BAB.L,,$5.38 B
+E2open,,$1.88 B,3.682,USA,,,,,,,$6.25,,ETWO,,$0.60 B
+Trustmark,,$2.02 B,2.717,USA,,,,,,,$33.28,,TRMK,,$0.55 B
+Helios Technologies,,$2.05 B,2.35,USA,,,,,,,$63.14,,HLIO,,$0.90 B
+Rapid7,,$2.09 B,2.353,USA,,,,,,,$35.35,,RPD,,$0.65 B
+Fannie Mae,Business Services & Supplies,$2.10 B,7.400,USA,,,,David C. Benson,1938,,$2.82,,FNMAL,,$31.47 B
+Buckle,,$2.18 B,2.8,USA,,,,,,,$43.69,,BKE,,$1.32 B
+Darktrace,Cyber Security,$2.25 B,618,UK,,,,,2013,,$2.98,,DARK.L,,36.1
+Kadant,,$2.31 B,3.0,USA,,,,,,,$198.22,,KAI,,$0.89 B
+Weber,,$2.32 B,2.534,USA,,,,,,,$8.11,,WEBR,,$1.58 B
+Evertec,,$2.34 B,2.5,USA,,,,,,,$35.94,,EVTC,,$0.61 B
+Navient,Diversified Financials,$2.37 B,4.330,USA,,,,John F. Remondi,2013,,$17.51,,NAVI,,$1.92 B
+Bowlero,,$2.38 B,2.965,USA,,,,,,,$14.40,,BOWL,,$0.96 B
+United Natural Foods,Food Markets,$2.39 B,30.300,USA,,,,J. Alexander M.,1976,,$39.99,,UNFI,,$28.92 B
+Stepan Company,,$2.40 B,2.439,USA,,,,,,,$108.42,,SCL,,$2.75 B
+Extreme Networks,,$2.47 B,2.643,USA,,,,,,,$18.88,,EXTR,,$1.14 B
+Rogers Corporation,,$2.50 B,3.675,USA,,,,,,,$132.98,,ROG,,$0.97 B
+Otter Tail,,$2.56 B,2.487,USA,,,,,,,$61.72,,OTTR,,$1.49 B
+Balfour Beatty,,$2.57 B,24.541,UK,,,,,,,$4.40,,BBY.L,,$9.69 B
+Pan Ocean,,$2.57 B,820.0,South Korea,,,,,,,$4.81,,028670.KS,,$5.03 B
+Commvault,,$2.57 B,2.8,USA,,,,,,,$57.82,,CVLT,,$0.79 B
+Chegg,,$2.57 B,2.464,USA,,,,,,,$20.56,,CHGG,,$0.76 B
+Liberty Energy,,$2.68 B,3.601,USA,,,,,,,$14.72,,LBRT,,$3.60 B
+Genworth Financial,Insurance,$2.68 B,"2,500",USA,,,,Thomas J. McInerney,1871,,$5.41,,GNW,,$7.8B
+Arch Resources,,$2.70 B,3.303,USA,,,,,,,$149.40,,ARCH,,$3.67 B
+Alpha Metallurgical Resources,,$2.71 B,3.56,USA,,,,,,,$170.53,,AMR,,$4.10 B
+Group 1 Automotive,Retailing,$2.87 B,"13,711",USA,,,,Earl Julius Hesterberg,1995,,$196.89,,GPI,,$13.7B
+Hostess Brands,,$2.92 B,2.6,USA,,,,,,,$21.81,,TWNK,,$1.31 B
+Sensient Technologies,,$3.11 B,3.844,USA,,,,,,,$74.00,,SXT,,$1.42 B
+Evolent Health,,$3.11 B,3.5,USA,,,,,,,$30.83,,EVH,,$1.21 B
+Romgaz,,$3.39 B,,mania,,,,,,,$8.30,,RZ8G.F,,
+Blackbaud,,$3.23 B,3.6,USA,,,,,,,$61.01,,BLKB,,$1.03 B
+Goodyear,Automotive (Automotive and Suppliers),$3.24 B,"72,000",USA,,,,Richard J. Richard J. Kramer,1898,,$11.46,,GT,,$17.5B
+Community Bank System,,$3.27 B,2.728,USA,,,,,,,$60.94,,CBU,,$0.66 B
+Greggs,,$3.31 B,25.174,UK,,,,,,,$32.11,,GRG.L,,$1.65 B
+Ameris Bancorp,,$3.34 B,2.865,USA,,,,,,,$48.22,,ABCB,,$1.00 B
+Kohl's,Retailing,$3.39 B,99.000,USA,,,,Michelle Gass,1962,,$30.76,,KSS,,$17.92 B
+Grand Canyon Education,,$3.48 B,3.68,USA,,,,,,,$111.91,,LOPE,,$0.90 B
+Foot Locker,Retail and Wholesale,$3.51 B,"16,555",USA,,,,Richard Johnson,1974,,$37.64,,FL,,$9B
+Taylor Morrison,,$3.55 B,3.0,USA,,,,,,,$32.85,,TMHC,,$8.23 B
+Alteryx,,$3.63 B,2.595,USA,,,,,,,$52.68,,AYX,,$0.72 B
+Brighthouse Financial,Insurance,$3.66 B,"1,500",USA,,,,Eric Thomas Steigerwalt,1863,,$53.03,,BHF,,$7.1B
+Spire Energy,,$3.67 B,3.71,USA,,,,,,,$70.00,,SR,,$2.19 B
+Netmarble,,$3.77 B,804.0,South Korea,,,,,,,$46.07,,251270.KS,,$2.14 B
+Adient,Consumer Durables,$4.00 B,"75,000",Ireland,,,,Douglas G. Del Grosso,1985,,$42.19,,ADNT,,$13.3B
+Premier,,$4.01 B,2.6,USA,,,,,,,$33.83,,PINC,,$1.38 B
+Avnet,Trading Companies,$4.02 B,"14,500",USA,,,,Philip R. Gallagher,1921,,$43.99,,AVT,,$21.6B
+Coca-Cola,"Food, Soft Beverages, Alcohol & Tobacco",$276.72 B,"79,000",USA,"Atlanta, GA, United States",,Consumer Staples,James Quincey,1892,,$63.99,,KO,,$38.7B
+HSBC,Banks,$122.28 B,"219,697",UK,"London, United Kingdom",,Financials,Mr. Noel Paul Quinn,First established on 3 March 1865,,$30.62,,HSBC,,US$49.552 billion (2021)
+FedEx,Transportation and Logistics,$46.33 B,"600,000",USA,,,,Frederick W. Smith,1971,,$178.07,,FDX,,$91.5B
+Whirlpool,Consumer Durables,$7.95 B,"69,000",USA,,,,Marc R. Bitzer,1911,,$146.00,,WHR,,$22B
+Kingfisher,Retailing,$5.76 B,"82,019",UK,,,,Thierry Garnier,1982,,$2.94,,KFI1.F,,$18.1B
+IBM," Technology, Software and IT, Software Products, Computers Hardware, Laptops, Cloud Services, Artificial Intelligence, Internet of Things, Electronics, Consumer Electronics",$134.32 B,"375,300",USA,,,,Arvind Krishna,1911,,$149.86,,IBM,,"57,350 Million USD"
+Aviva,Insurance,$15.37 B,"27,463",UK,,,,Amanda Blanc,2000,,$5.49,,AV.L,,$45.1B
+NVIDIA,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",$440.43 B,22.473,USA,,,,Jensen Huang,1993,,$176.74,,NVDA,,$28.56 B
+JPMorgan Chase,Banking and Financial Services,$391.31 B,"270,000",USA,,,,Jamie Dimon,2000,,$133.41,,JPM,,$124.5B
+AbbVie,Drugs & Biotechnology,$291.55 B,"50,000",USA,"North Chicago, IL, United States",,Healthcare,Richard A. Gonzalez,2013,,$164.86,,ABBV,,$56.2B
+T-Mobile US,Telecom Services,$177.11 B,"75,000",USA,"Bellevue, WA, United States",,Communication Services,Mr. G. Michael Sievert,1994,,$142.36,,TMUS,,US$68.397 billion (2020)
+ConocoPhillips,Oil & Gas E&P,$140.64 B,"9,400",USA,"Houston, TX, United States",,Energy,Ryan Lance,1875,,$112.87,,COP,,$46.1B
+AT&T," Telecom, Communication Services, Internet Providers, Mobile Services, Fixed Line Service, Television Services, Media, Advertising, Utilities, Telecom Equipment",$134.70 B,"203,000",USA,"Dallas, TX, United States",,Communication Services,Edward Whitacre Jr.,1983,,$18.90,,T,,"168,860 Million USD"
+CVS Health,Retailing,$132.29 B,"300,000",USA,"Woonsocket, RI, United States",,Healthcare,Karen S. Lynch,1963,,$100.68,,CVS,,$292B
+S&P Global,Business Services & Supplies,$115.28 B,22.850,USA,,,,Douglas L. Peterson,1888,,$353.84,,SPGI,,$10.33 B
+BlackRock,Diversified Financials,$106.86 B,"18,400",USA,"New York, NY, United States",,Financials,Laurence Douglas Fink,1988,,$711.52,,BLK,,$20.3B
+BP,Oil & Gas Operations,$104.90 B,"65,900",UK,,,,Bernard Looney,1909,,$34.80,,BP,,$158B
+ServiceNow,IT Software & Services,$84.51 B,"16,881",USA,,,,William R. McDermott,2004,,$418.39,,NOW,,$5.9B
+PayPal,Banking and Financial Services,$82.80 B,"30,900",USA,"San Jose, CA, United States",,Financials,Dan Schulman,1998,,$72.63,,PYPL,,$25.6B
+EOG Resources,Oil & Gas Operations,$73.97 B,"2,800",USA,,,,Ezra Y. Yacob,1985,,$125.93,,EOG,,$19.8B
+GlaxoSmithKline,Drugs & Biotechnology,$73.53 B,"90,096",UK,,,,Emma N. Walmsley,2000,,$35.92,,GSK,,$46.9B
+3M,Packaged Goods,$69.69 B,"38,000",USA,,,,Michael F. Roman,1902,,$126.09,,MMM,,$35.4B
+HCA Healthcare,Health Care Equipment & Services,$69.18 B,204.000,USA,,,,Samuel N. Hazen,1968,,$244.70,,HCA,,$56.49 B
+CSX Corporation,Railroads,$68.68 B,21.946,USA,"Jacksonville, FL, United States",,Industrials,Mr. James M. Foote,"November 1, 1980",,$32.67,,CSX,,$13.66 B
+Colgate-Palmolive,Household & Personal Products,$66.26 B,"33,800",USA,,,,Not found,1806,,$79.34,,CL,,$17.4B
+U.S. Bancorp,Banks,$66.24 B,70.000,USA,"Minneapolis, MN, United States",,Financials,Mr. Andrew J. Cecere,"July 13, 1863",,$43.29,,USB,,$23.50 B
+Sherwin-Williams,"Construction, Oil & Gas Operations, Mining and Chemicals",$64.44 B,"60,000",USA,,,,John G. Morikis,1866,,$248.68,,SHW,,$19.9B
+CNOOC,Oil & Gas Operations,$64.09 B,"19,086",China,,,,Xin Huai Zhou,1999,,$1.29,,0883.HK,,$37.8B
+CME Group,Diversified Financials,$62.92 B,"3,480",USA,,,,Terrence A. Duffy,1898,,$174.92,,CME,,$4.7B
+PNC Financial Services,Banking and Financial Services,$60.34 B,"59,426",USA,,,,William S. Demchak,1845,,$149.62,,PNC,,$19.9B
+KLA,"IT, Internet, Software & Services",$57.56 B,14.000,USA,,,,Richard P. Wallace,1997,,$406.21,,KLAC,,$9.85 B
+MetLife,Insurance,$57.15 B,"43,000",USA,,,,Michel A. Khalaf,1868,,$72.84,,MET,,$71.1B
+Freeport-McMoRan,Materials,$56.35 B,"24,700",USA,,,,Richard Adkerson,1897,,$39.43,,FCX,,$24.3B
+RELX,Business Services & Supplies,$55.40 B,"33,500",UK,,,,Erik Engstrom,1903,,$28.93,,RELX,,$10B
+KKR & Co.,,$55.38 B,3.238,USA,,,,,,,$49.35,,KKR,,$7.24 B
+McKesson,Drugs & Biotechnology,$52.79 B,"76,000",USA,,,,Brian S. Tyler,1833,,$372.31,,MCK,,$257B
+O'Reilly Automotive,Retailing,$50.96 B,"83,636",USA,,,,Gregory D. Johnson,1957,,$814.50,,ORLY,,$13.3B
+DexCom,Health Care Equipment & Services,$47.68 B,"6,300",USA,,,,Kevin Ronald Sayer,1999,,$121.49,,DXCM,,$2.4B
+Kimberly-Clark,Packaged Goods,$46.94 B,"45,000",USA,,,,Michael D. Hsu,1872,,$139.10,,KMB,,$19.8B
+AutoZone,Retailing,$44.36 B,"100,000",USA,,,,"William C. Rhodes, III",1979,,"$2,360",,AZO,,$15.6B
+MercadoLibre,IT Software & Services,$43.62 B,"29,957",gentina,,,,Marcos Eduardo Galperin,1999,,$867.30,,MELI,,$7.1B
+L3Harris Technologies,Aerospace & Defense,$41.51 B,"42,240",USA,,,,Christopher Eugene Kubasik,2019,,$218.04,,LHX,,$17.8B
+MSCI," Financial Services, Business Services, Stock Markets, Trading, Capital Markets",$39.85 B,"4,303",USA,,,,Henry A. Fernandez,1969,,$498.48,,MSCI,,"2,043 Million USD"
+IQVIA,Drugs & Biotechnology,$39.78 B,"79,000",USA,,,,Ari Bousbib,1982,,$214.21,,IQV,,$13.9B
+Parker-Hannifin,Capital Goods,$38.13 B,"54,640",USA,,,,Thomas L. Williams,1918,,$296.99,,PH,,$15.3B
+Bank of New York Mellon,Banking,$36.32 B,"49,100",USA,,,,Thomas P. Gibbons,1965,,$44.94,,BK,,$16.1B
+IDEXX Laboratories,Health Care Equipment & Services,$35.61 B,"10,350",USA,,,,Jay Mazelsky,1983,,$430.03,,IDXX,,$3.2B
+AmerisourceBergen,Drugs & Biotechnology,$33.45 B,"42,000",USA,,,,Steven H. Collis,1969,,$165.27,,ABC,,$221.1B
+CoStar Group,IT Software & Services,$33.04 B,4.742,USA,,,,Andrew C. Florance,1987,,$81.26,,CSGP,,$2.11 B
+VICI Properties,Diversified Financials,$32.92 B,152,USA,,,,Edward Baltazar Pitoniak,2016,,$34.19,,VICI,,$1.5B
+ResMed,Health Care Equipment & Services,$32.35 B,"7,970",USA,,,,Michael J. Farrell,1989,,$220.86,,RMD,,$3.4B
+BAE Systems,Aerospace & Defense,$31.99 B,"34,000",UK,,,,Charles Nicolas Woodburn,1999,,$10.30,,BSP.F,,$26.8B
+NatWest Group,Banking,$31.89 B,"57,800",UK,,,,Alison Marie Rose-Slade,1968,,$6.60,,NWG,,$17.9B
+SBA Communications,Diversified Financials,$31.78 B,1.596,USA,,,,Jeffrey A. Stoops,1989,,$294.39,,SBAC,,$2.54 B
+WEC Energy Group,Utilities,$30.82 B,"6,938",USA,,,,Not found,1981,,$97.72,,WEC,,$8.3B
+EQT,Oil & Gas Operations,$28.48 B,693,Sweden,,,,Toby Z. Rice,1888,,$23.86,,EQT.ST,,$6.8B
+CrowdStrike,IT Software & Services,$28.26 B,"4,965",USA,,,,George P. Kurtz,2011,,$120.57,,CRWD,,$1.5B
+HP,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",$27.85 B,"51,000",USA,,,,Enrique Lores,1939,,$28.36,,HPQ,,$65B
+CDW Corporation,Information Technology Services,$25.99 B,"13,900",USA,"Lincolnshire, IL, United States",,Technology,Ms. Christine A. Leahy,1984,,$192.03,,CDW,,"US$18.467 billion (Fiscal Year Ended December 31, 2020)"
+Coca-Cola European Partners,"Food, Soft Beverages, Alcohol & Tobacco",$25.10 B,"33,200",UK,,,,Damian Paul Gammell,2016,,$54.95,,CCEP,,$16.2B
+CBRE Group,Construction,$25.08 B,"105,000",USA,,,,Bob Sulentic ,1906,,$79.41,,CBRE,,$27.7B
+M&T Bank,Banking,$24.82 B,"17,569",USA,,,,René F. Jones,1856,,$143.79,,MTB,,$5.9B
+FirstEnergy,Utilities,$24.20 B,"12,395",USA,,,,Steven E. Strah,1997,,$42.34,,FE,,$11.4B
+AvalonBay Communities,Diversified Financials,$24.07 B,"2,927",USA,,,,Benjamin W. Schall,1978,,$172.08,,AVB,,$2.3B
+eBay,Business Services & Supplies,$23.74 B,10.800,USA,,,,Jamie Iannone,1995,,$43.75,,EBAY,,$9.89 B
+DTE Energy,Utilities,$23.36 B,"10,300",USA,,,,Jerry Norcia,1996,,$120.60,,DTE,,$15.5B
+SSE,Utilities,$22.81 B,"12,512",UK,,,,Alistair Phillips-Davies,1989,,$20.97,,SCT.F,,$10.3B
+DoorDash,IT Software & Services,$22.71 B,8.600,USA,,,,Tony Xu MBA,2013,,$58.50,,DASH,,$6.06 B
+CNH Industrial,Capital Goods,$21.80 B,"71,895",UK,,,,Scott Wellington Wine,1996,,$16.22,,CNHI,,$33.4B
+PPL,Utilities,$21.66 B,"5,607",USA,,,,Vincent Sorgi,1994,,$29.42,,PPL,,$5.8B
+VeriSign,IT Software & Services,$21.29 B,902.0,USA,,,,D. James Bidzos,1995,,$200.86,,VRSN,,$1.39 B
+BioMarin Pharmaceutical,,$20.14 B,3.045,USA,,,,,,,$108.38,,BMRN,,$2.00 B
+AES,Utilities,$19.53 B,"8,450",USA,,,,Andrés Ricardo Gluski Weilert,1981,,$29.24,,AES,,$11.1B
+CenterPoint Energy,Utilities,$19.48 B,"12,901",USA,,,,David J. Lesar,1882,,$30.95,,CNP,,$8.4B
+CMS Energy,Utilities,$18.50 B,"9,778",USA,,,,Garrick J. Rochow,1987,,$63.76,,CMS,,$7.4B
+CF Industries,,$18.24 B,2.97,USA,,,,,,,$93.00,,CF,,$11.11 B
+PerkinElmer,Health Care Equipment & Services,$18.15 B,"16,700",USA,,,,Prahlad Ramadhar Singh,1947,,$143.71,,PKI,,$5.1B
+Campbell Soup,"Food, Drink & Tobacco",$17.26 B,"14,100",USA,,,,Mark A. Clouse,1869,,$57.00,,CPB,,$8.3B
+Cloudflare,Business Services & Supplies,$17.19 B,"2,440",USA,,,,Matthew Browning Prince,2009,,$52.32,,NET,,$656M
+Cooper Companies,Health Care Equipment & Services,$16.03 B,"12,000",USA,,,,Albert George White III,Not found,,$324.86,,COO,,$3B
+3i Group,Diversified Financials,$15.98 B,234,UK,,,,Simon Alexander Borrows,Not found,,$16.43,,III.L,,$331M
+FMC,Chemicals,$15.97 B,"6,400",USA,,,,Mark A. Douglas,1883,,$126.79,,FMC,,$5B
+Skyworks Solutions,Semiconductors,$15.54 B,11.000,USA,,,,Liam K. Griffin,2002,,$97.06,,SWKS,,$5.48 B
+Associated British Foods,"Food, Drink & Tobacco",$15.53 B,"128,000",UK,,,,George Garfield Weston,1935,,$19.50,,ABF.L,,$19B
+Jacobs Engineering,"Construction, Oil & Gas Operations, Mining and Chemicals",$15.48 B,"55,000",USA,,,,Steve Demetriou,1947,,$122.57,,J,,$14.1B
+Align Technology,Health Care Equipment & Services,$15.29 B,"22,540",USA,,,,Joseph M. Hogan,1997,,$195.81,,ALGN,,$4B
+Palantir,,$15.28 B,3.269,USA,,,,,,,$7.35,,PLTR,,$1.83 B
+BT Group,"Telecommunications Services, Cable Supplier",$15.26 B,"100,000",UK,,,,Philip Eric Rene,1980,,$1.44,,BT-A.L,,$28.8B
+NVR," Consumer Cyclical, Capital Goods, Construction",$15.16 B,"6,600",USA,,,,Dwight Schar,1980,,"$4,747",,NVR,,"8,951 Million USD"
+FICO,,$15.15 B,3.367,USA,,,,,,,$606.68,,FICO,,$1.37 B
+Textron,Aerospace & Defense,$15.03 B,"33,000",USA,,,,Scott C. Donnelly,1923,,$72.02,,TXT,,$12.4B
+Avery Dennison,Materials,$14.72 B,"36,000",USA,,,,Mitchell R. Butier,1990,,$181.85,,AVY,,$8.4B
+Teradyne,Semiconductors,$14.66 B,"5,900",USA,,,,Mark E. Jagiela,1960,,$94.15,,TER,,$3.7B
+Leidos,"IT, Internet, Software & Services",$14.59 B,"39,000",USA,,,,Roger Krone,1969,,$106.80,,LDOS,,$13.7B
+MongoDB,Business Services & Supplies,$14.59 B,"3,544",USA,,,,Dev C. Ittycheria,2007,,$210.65,,MDB,,$874M
+Bunge,"Food, Drink & Tobacco",$14.56 B,"22,000",USA,,,,Gregory A. Heckman,1818,,$96.23,,BG,,$59.2B
+Expedia Group,Business Services & Supplies,$14.48 B,"14,800",USA,,,,Peter M. Kern,1996,,$92.79,,EXPE,,$8.6B
+Evergy,Utilities,$14.47 B,"4,930",USA,,,,David A. Campbell,1909,,$63.05,,EVRG,,$5.6B
+MGM Resorts,"Hotels, Restaurants & Leisure",$14.18 B,"59,000",USA,,,,William J. Hornbuckle,1986,,$36.93,,MGM,,$9.7B
+Alliant Energy,Utilities,$14.06 B,"3,313",USA,,,,John O. Larsen,1981,,$56.05,,LNT,,$3.7B
+Westlake Chemical,Chemicals,$14.05 B,"14,550",USA,,,,Albert Yuan Chao,1986,,$110.17,,WLK,,$11.8B
+NetApp,Technology Hardware & Equipment,$13.88 B,12.000,USA,,,,George Kurian,1992,,$64.39,,NTAP,,$6.45 B
+Viatris,Drugs & Biotechnology,$13.72 B,"37,000",USA,,,,Michael Goettler,1961,,$11.32,,VTRS,,$17.9B
+Healthpeak Properties,Diversified Financials,$13.70 B,196.0,USA,,,,Thomas M. Herzog,1985,,$25.49,,PEAK,,$2.01 B
+AspenTech,,$13.65 B,3.7,USA,,,,,,,$211.65,,AZPN,,$0.84 B
+SVB Financial Group,Banks,$13.62 B,8.429,USA,"Santa Clara, CA, United States",,Financials,Gregory W. Becker,1983,,$230.57,,SIVB,,$6.18 B
+Bio-Techne,,$13.62 B,3.0,USA,,,,,,,$86.81,,TECH,,$1.11 B
+Kimco Realty,Diversified Financials,$13.61 B,606,USA,,,,Conor C. Flynn,1973,,$22.01,,KIM,,$1.4B
+Franklin Resources,Diversified Financials,$13.53 B,"10,300",USA,,,,Jennifer M. Johnson,1947,,$27.10,,BEN,,$8.7B
+Zebra Technologies,Technology Hardware & Equipment,$13.50 B,9.800,USA,,,,Anders Gustafsson,1969,,$261.50,,ZBRA,,$5.74 B
+Chesapeake Energy,Oil & Gas Operations,$13.28 B,"1,300",USA,,,,Domenic J. Dell’Osso Jr.,1989,,$99.16,,CHK,,$7.3B
+SS&C Technologies,IT Software & Services,$13.27 B,24.900,USA,,,,William Charles Stone,1986,,$52.68,,SSNC,,$5.23 B
+United Airlines Holdings,Transportation,$13.10 B,90.800,USA,,,,J. Scott Kirby,1968,,$40.10,,UAL,,$38.13 B
+Interpublic Group,Business Services & Supplies,$12.99 B,"55,600",USA,,,,Philippe Krakowsky,1930,,$33.45,,IPG,,$10.2B
+Burlington Stores,Retailing,$12.78 B,14.803,USA,,,,Michael B. O'Sullivan,1972,,$196.17,,BURL,,$8.54 B
+Essential Utilities,,$12.78 B,3.211,USA,,,,,,,$48.74,,WTRG,,$2.11 B
+Amerco,Business Services & Supplies,$12.72 B,16.368,USA,,,,Edward J. Shoen,1945,,$64.92,,UHAL,,$5.41 B
+Bio-Rad Laboratories,Health Care Equipment & Services,$12.66 B,"7,900",USA,,,,Norman D. Schwartz,1952,,$429.90,,BIO,,$2.9B
+ZoomInfo,,$12.65 B,2.742,USA,,,,,,,$31.36,,ZI,,$1.01 B
+Snap-on,Consumer Durables,$12.38 B,12.800,USA,,,,Nicholas T. Pinchuck,1920,,$233.00,,SNA,,$4.42 B
+Bunzl,Trading Companies,$12.32 B,"21,021",UK,,,,Frank Andre van Zanten,1854,,$36.51,,BNZL.L,,$14.1B
+TransUnion,Consulting Services,$12.02 B,"10,200",USA,"Chicago, IL, United States",,Industrials,Mr. Christopher A. Cartwright,"February 8, 1968",,$62.38,,TRU,,US$2.656 billion (2019)
+Dynatrace,,$11.74 B,3.6,USA,,,,,,,$40.81,,DT,,$1.03 B
+Celanese,Chemicals,$11.49 B,"8,529",USA,,,,Lori J. Ryerkerk,1918,,$105.98,,CE,,$8.5B
+Globe Life,Insurance,$11.48 B,"3,222",USA,,,,Gary L. Coleman Larry M. Hutchison,1951,,$118.08,,GL,,$5.2B
+Liberty Broadband,Telecommunications Services,$11.39 B,"1,900",USA,,,,Gregory Ben Maffei,1991,,$76.35,,LBRDA,,$988M
+Western Digital,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",$11.38 B,"65,000",USA,,,,David V. Goeckeler,1970,,$35.83,,WDC,,$18.9B
+Masco,Construction,$11.30 B,"20,000",USA,,,,Keith J. Allman,1929,,$50.14,,MAS,,$8.4B
+NiSource,Oil & Gas Operations,$11.29 B,"7,272",USA,,,,Lloyd M. Yates,1847,,$27.82,,NI,,$4.9B
+Henry Schein,Health Care Equipment & Services,$11.27 B,22.000,USA,,,,Stanley M. Bergman,1932,,$83.17,,HSIC,,$12.60 B
+Albertsons,Food Markets,$11.14 B,"300,000",USA,,,,Vivek Sankaran,1939,,$20.82,,ACI,,$71.9B
+Equitable Holdings,Diversified Financials,$11.07 B,"7,800",USA,,,,Mark Pearson,1859,,$29.92,,EQH,,$11B
+Sino Biopharmaceutical,Drugs & Biotechnology,$11.03 B,"25,579",China,,,,Yi Li,2000,,$0.59,,1177.HK,,$3.8B
+Aramark,"Hotels, Restaurants & Leisure",$11.03 B,"248,300",USA,,,,John J. Zillmer,1936,,$42.65,,ARMK,,$13.3B
+Informa plc,Publishing,$10.98 B,,UK,,,Communication Services,,,,$7.67,,INF.L,,
+WPP,Media,$10.97 B,"109,382",UK,,,,Mark Julian Read,1971,,$51.24,,WPP,,$17.6B
+CarMax,Retailing,$10.69 B,"32,647",USA,,,,Bill Nash,1993,,$67.71,,KMX,,$31.9B
+Caesars Entertainment,Travel & Leisure,$10.66 B,"10,000",USA,,,,Tom Reeg,1937,,$49.69,,CZR,,$9.5B
+PulteGroup,Construction,$10.55 B,"6,182",USA,,,,Ryan R. Marshall,1950,,$46.33,,PHM,,$13.9B
+Coinbase,IT Software & Services,$10.52 B,"3,730",USA,,,,Brian Armstrong,2012,,$40.19,,COIN,,$7.8B
+Fidelity National Financial,Insurance,$10.33 B,"28,290",USA,,,,Michael J. Nolan,1847,,$37.99,,FNF,,$15.6B
+Annaly Capital Management,Diversified Financials,$10.28 B,171,USA,,,,David L. Finkelstein,1996,,$21.98,,NLY,,$731M
+Qorvo,Semiconductors,$10.23 B,"8,400",USA,,,,Robert A. Bruggeworth,1991,,$100.94,,QRVO,,$4.6B
+HF Sinclair,Oil & Gas Operations,$10.16 B,"4,208",USA,,,,Michael C. Jennings,1947,,$50.63,,DINO,,$18.4B
+AutoNation,Retailing,$10.08 B,"22,200",USA,,,,Michael Mark Manley,1991,,$114.43,,AN,,$26.7B
+Crown Holdings,"Engineering, Manufacturing",$10.01 B,"33,000",USA,,,,Timothy Joseph Donahue,1892,,$83.51,,CCK,,$11.9B
+Builders FirstSource,Construction,$9.95 B,"28,000",USA,,,,David E. Flitman,1998,,$67.65,,BLDR,,$19.9B
+AGCO,Capital Goods,$9.89 B,"23,300",USA,,,,Eric P. Hansotia,1990,,$132.65,,AGCO,,$11.1B
+BorgWarner,Consumer Durables,$9.63 B,49.300,USA,,,,Frédéric B. Lissdale,1928,,$41.16,,BWA,,$15.34 B
+Performance Food Group,Food Markets,$9.48 B,"23,000",USA,,,,George L. Holm,1885,,$60.96,,PFGC,,$39.7B
+BJ's Wholesale Club,Retailing,$9.45 B,"34,000",USA,,,,Robert W. Eddy,1984,,$70.33,,BJ,,$16.7B
+Twilio,IT Software & Services,$9.40 B,"7,867",USA,,,,Jeffery G. Lawson,2008,,$51.03,,TWLO,,$2.8B
+Next plc,,$9.34 B,26.836,UK,,,,,,,$72.33,,NXT.L,,$6.20 B
+Universal Health Services,Health Care Equipment & Services,$9.34 B,89.000,USA,,,,Marc D. Miller,1979,,$130.83,,UHS,,$13.22 B
+Rolls-Royce Holdings,"Engineering, Manufacturing",$9.26 B,"44,000",UK,,,,David Warren Arthur East,1906,,$1.10,,RR.L,,$15.4B
+Reinsurance Group of America,Insurance,$9.24 B,3.5,USA,,,,Anna Manning,1973,,$138.36,,RGA,,$15.34 B
+Tapestry,Retailing,$9.17 B,"16,400",USA,,,,Joanne C. Crevoiserat,2017,,$38.06,,TPR,,$6.5B
+Liberty Global,Media,$9.15 B,"11,200",UK,,,,Michael Thomas Fries,2005,,$19.65,,LBTYB,,$10.5B
+East West Bancorp,Banking,$9.07 B,"3,100",USA,,,,Dominic Ng,1998,,$64.38,,EWBC,,$1.9B
+Schroders,Diversified Financials,$9.04 B,"5,750",UK,,,,Peter Harrison,1804,,$5.61,,SDR.L,,$4.2B
+Invesco,Diversified Financials,$8.87 B,"8,513",USA,,,,Martin Flanagan,1935,,$19.52,,IVZ,,$7B
+Mondi,Materials,$8.65 B,"26,500",UK,,,,Andrew King,2007,,$17.82,,MNDI.L,,$9.1B
+Dropbox,,$8.60 B,2.667,USA,,,,,,,$23.73,,DBX,,$2.29 B
+Penumbra,,$8.54 B,3.8,USA,,,,,,,$224.97,,PEN,,$0.82 B
+Advance Auto Parts,Retailing,$8.50 B,"41,000",USA,,,,Thomas R. Greco,1932,,$143.46,,AAP,,$11B
+Cullen/Frost Bankers,Banking,$8.40 B,"4,553",USA,,,,Phillip D. Green,1868,,$130.77,,CFR,,$1.4B
+Commerce Bancshares,Banking,$8.28 B,4.595,USA,,,,John W. Kemper,1865,,$66.12,,CBSH,,$1.45 B
+Pearson,,$8.16 B,21.35,UK,,,,,,,$11.27,,PSO,,$8.49 B
+OCI," Basic Materials, Chemicals, Fertilizers",$8.08 B,4,Netherlands,,,Financial Services,Not found,1959,,$38.23,,OCI.AS,,"6,318 Million USD"
+Cleveland-Cliffs,"Construction, Oil & Gas Operations, Mining and Chemicals",$8.06 B,"25,500",USA,,,,Lourenco Goncalves,1847,,$15.66,,CLF,,$22.4B
+Alcoa,Materials,$8.05 B,"12,200",USA,,,,Roy Harvey,1888,,$45.50,,AA,,$12.8B
+US Foods,Food Markets,$8.01 B,28.000,USA,,,,Pietro Satriano,2007,,$35.64,,USFD,,$33.18 B
+Avis Budget Group,Business Services & Supplies,$7.94 B,"21,000",USA,,,,Joseph A. Ferraro,1946,,$191.63,,CAR,,$9.3B
+Jones Lang LaSalle,Construction,$7.93 B,"98,200",USA,,,,Christian Ulbrich,1783,,$167.13,,JLL,,$19.5B
+Fortune Brands Home & Security,Construction,$7.92 B,"28,000",USA,,,,Nicholas I. Fink,2011,,$61.90,,FBHS,,$7.7B
+Unum,Insurance,$7.87 B,10.100,USA,,,,Richard Paul McKenney,1848,,$39.57,,UNM,,$11.88 B
+Webster Financial,Banking,$7.85 B,"3,245",USA,,,,John R. Ciulla,1986,,$45.17,,WBS,,$1.3B
+Williams-Sonoma,Retail and Wholesale,$7.73 B,12.200,USA,,,,Laura Alber,1956,,$116.25,,WSM,,$8.72 B
+JD Sports Fashion,Retailing,$7.61 B,"61,053",UK,,,,Not found,Not found,,$1.47,,JD.L,,$10.2B
+Robinhood,,$7.59 B,3.4,USA,,,,,,,$9.09,,HOOD,,$1.34 B
+NRG Energy,Utilities,$7.48 B,"6,635",USA,,,,Mauricio Gutierrez,1989,,$32.47,,NRG,,$26.9B
+Olin,Chemicals,$7.42 B,"7,750",USA,,,,Scott McDougald Sutton,1892,,$54.24,,OLN,,$8.9B
+Globus Medical,,$7.42 B,2.4,USA,,,,,,,$74.40,,GMED,,$0.99 B
+Signature Bank,Banking,$7.34 B,1.854,USA,,,,Joseph J. DePaolo,2000,,$116.65,,SBNY,,$2.58 B
+Old Republic International,Insurance,$7.30 B,"9,600",USA,,,,Craig R. Smiddy,1887,,$24.00,,ORI,,$9.3B
+Procore,,$7.29 B,2.885,USA,,,,,,,$52.88,,PCOR,,$0.66 B
+Organon,Drugs & Biotechnology,$7.27 B,"9,300",USA,,,,Kevin Ali,Not found,,$28.62,,OGN,,$6.5B
+Medical Properties Trust,Diversified Financials,$7.09 B,112,USA,,,,Edward K. Aldag,2003,,$11.86,,MPW,,$1.5B
+Roku,,$7.03 B,3.0,USA,,,,,,,$50.50,,ROKU,,$3.12 B
+Dolby,,$7.02 B,2.368,USA,,,,,,,$73.17,,DLB,,$1.25 B
+DaVita,Health Care Equipment & Services,$6.73 B,69.000,USA,,,,Javier J. Rodriguez,2000,,$74.71,,DVA,,$11.21 B
+Arrow Electronics,Trading Companies,$6.72 B,"20,700",USA,,,,Michael J. Long,1946,,$109.28,,ARW,,$34.5B
+BOK Financial,Banking,$6.70 B,"4,711",USA,,,,Stacy C. Kymes,1908,,$99.65,,BOKF,,$2B
+Centrica,Utilities,$6.68 B,"7,000",UK,,,,Christopher O’Shea,1997,,$1.13,,CNA.L,,$20.3B
+Assurant,Insurance,$6.63 B,"15,600",USA,,,,Alan B. Colberg,1892,,$125.64,,AIZ,,$10.2B
+Whitbread,,$6.63 B,35.7,UK,,,,,,,$32.85,,WTB.L,,$2.27 B
+Western Alliance Bancorporation,,$6.50 B,3.368,USA,,,,,,,$59.77,,WAL,,$2.23 B
+H&R Block,,$6.49 B,3.8,USA,,,,,,,$41.78,,HRB,,$3.45 B
+Mohawk Industries,Consumer Durables,$6.47 B,"43,000",USA,,,,Jeffrey Lorberbaum,1878,,$101.94,,MHK,,$11.2B
+WESCO International,Trading Companies,$6.43 B,"18,000",USA,,,,John J. Engel,1993,,$126.55,,WCC,,$18.2B
+Sainsbury's,,$6.41 B,171.0,UK,,,,,,,$2.71,,SBRY.L,,$39.27 B
+Starwood Property Trust,Diversified Financials,$6.40 B,277.0,USA,,,,Barry Stuart Sternlicht,2009,,$20.04,,STWD,,$1.40 B
+Melrose Industries,,$6.37 B,37.336,UK,,,,,,,$1.57,,MRO.L,,$9.29 B
+Murphy USA,Retailing,$6.37 B,6.245,USA,,,,Andrew Clyde,1996,,$281.94,,MUSA,,$22.67 B
+Prosperity Bancshares,,$6.30 B,3.592,USA,,,,,,,$69.00,,PB,,$1.10 B
+DXC Technology,Business Services & Supplies,$6.27 B,"134,000",USA,,,,Michael J. Salvino,2017,,$27.29,,DXC,,$16.6B
+Lithia Motors,Retailing,$6.13 B,"21,150",USA,,,,Bryan B. DeBoer,1946,,$224.57,,LAD,,$25.2B
+DraftKings,,$6.08 B,3.4,USA,,,,,,,$13.55,,DKNG,,$1.85 B
+New York Community Bank,,$6.02 B,2.815,USA,,,,,,,$8.85,,NYCB,,$1.40 B
+Coupa,,$5.98 B,3.076,USA,,,,,,,$78.65,,COUP,,$0.81 B
+AGNC Investment,Diversified Financials,$5.79 B,50,USA,,,,Peter J. Federico,2008,,$10.14,,AGNC,,$2B
+Valley Bank,,$5.69 B,3.37,USA,,,,,,,$11.25,,VLY,,$1.69 B
+Glacier Bancorp,,$5.69 B,3.396,USA,,,,,,,$51.41,,GBCI,,$0.88 B
+Newell Brands,Consumer Durables,$5.64 B,"32,000",USA,,,,Ravi Saligram,1903,,$13.66,,NWL,,$10.6B
+Pinnacle Financial Partners,,$5.55 B,3.184,USA,,,,,,,$72.70,,PNFP,,$1.24 B
+Brookfield Renewable,Utilities,$5.52 B,Not found,USA,,,,Connor David Teskey,Not found,,$32.11,,BEPC,,$3.4B
+Synovus,Banking,$5.44 B,"4,988",USA,,,,Kevin S. Blair,1888,,$37.41,,SNV,,$2.1B
+Novanta,,$5.41 B,2.7,USA,,,,,,,$151.79,,NOVT,,$0.84 B
+DS Smith,,$5.40 B,29.584,UK,,,,,,,$3.92,,SMDS.L,,$9.10 B
+Guidewire Software,,$5.38 B,3.376,USA,,,,,,,$65.76,,GWRE,,$0.84 B
+HealthEquity,,$5.33 B,3.688,USA,,,,,,,$63.04,,HQY,,$0.83 B
+M&G plc,Asset Management,$5.28 B,,UK,,,Financials,,,,$2.25,,MNG.L,,
+Primerica,,$5.21 B,2.891,USA,,,,,,,$141.39,,PRI,,$2.75 B
+Wintrust Financial,Banking,$5.04 B,"5,239",USA,,,,Edward Joseph Wehmer,1992,,$82.97,,WTFC,,$1.9B
+PBF Energy,Oil & Gas Operations,$5.01 B,"3,418",USA,,,,Thomas J. Nimbley,2008,,$35.99,,PBF,,$27.3B
+Tenet Healthcare,Health Care Equipment & Services,$4.95 B,"101,100",USA,,,,Saumya Sutaria,1967,,$45.87,,THC,,$19.4B
+Portland General Electric,,$4.95 B,3.0,USA,,,,,,,$49.08,,POR,,$2.56 B
+Persimmon,Construction,$4.89 B,"5,196",UK,,,,Dean Kendal Finch,Not found,,$15.27,,PSN.L,,$5B
+X5 Retail Group,Food Markets,$4.87 B,"339,716",Netherlands,,,,Igor Shekhterman,1975,,$17.96,,FIVE.ME,,$29.9B
+Bank OZK,,$4.78 B,2.542,USA,,,,,,,$40.70,,OZK,,$1.18 B
+AMN Healthcare Services,,$4.76 B,3.8,USA,,,,,,,$109.91,,AMN,,$5.48 B
+Vornado Realty Trust,,$4.73 B,3.224,USA,,,,,,,$22.97,,VNO,,$1.77 B
+Frasers Group,,$4.71 B,30.0,UK,,,,,,,$9.21,,FRAS.L,,$5.89 B
+Johnson Matthey,Chemicals,$4.71 B,"14,582",UK,,,,Liam Condon,1817,,$25.68,,JMAT.L,,$23.6B
+Black Hills,,$4.57 B,2.884,USA,,,,,,,$70.36,,BKH,,$2.32 B
+F.N.B. Corporation,,$4.47 B,3.884,USA,,,,,,,$12.75,,FNB,,$1.33 B
+Diploma plc,Industrial Distribution,$4.44 B,,UK,,,Industrials,,,,$35.66,,DPLM.L,,
+Wayfair,Retail and Wholesale,$4.44 B,"16,681",USA,,,,Niraj S. Shah,2002,,$41.49,,W,,$13.7B
+Workiva,,$4.41 B,2.375,USA,,,,,,,$83.97,,WK,,$0.51 B
+Boston Beer Company,,$4.39 B,2.543,USA,,,,,,,$357.25,,SAM,,$1.99 B
+XPO Logistics,Transportation,$4.35 B,"42,000",USA,,,,Bradley S. Jacobs,1989,,$37.83,,XPO,,$16.4B
+IMI plc,Specialty Industrial Machinery,$4.28 B,,UK,,,Industrials,,,,$16.43,,IMI.L,,
+ONE Gas,,$4.27 B,3.6,USA,,,,,,,$78.88,,OGS,,$2.35 B
+TriNet,,$4.20 B,3.5,USA,,,,,,,$67.53,,TNET,,$4.89 B
+Haemonetics,,$4.11 B,2.821,USA,,,,,,,$81.39,,HAE,,$1.08 B
+First Interstate BancSystem,,$4.01 B,2.358,USA,,,,,,,$38.45,,FIBK,,$0.96 B
+ITV plc,Broadcasting,$3.77 B,,UK,,,Communication Services,,,,$0.94,,ITV.L,,
+Virgin Money UK,Banking,$3.03 B,"7,857",UK,,,,David Joseph Duffy,2015,,$2.20,,VMUK.L,,$2.8B
+AMC Entertainment,,$2.95 B,3.046,USA,,,,,,,$5.75,,AMC,,$4.09 B
+CONMED,,$2.83 B,3.8,USA,,,,,,,$93.10,,CNMD,,$1.06 B
+PacWest Bancorp,Banking,$2.82 B,2.2,USA,,,,Matthew P. Wagner,1999,,$23.95,,PACW,,$1.35 B
+TripAdvisor,,$2.62 B,2.852,USA,,,,,,,$18.68,,TRIP,,$1.37 B
+CNO Financial Group,,$2.55 B,3.4,USA,,,,,,,$22.36,,CNO,,$3.67 B
+Sotera Health,,$2.52 B,3.0,USA,,,,,,,$8.94,,SHC,,$0.99 B
+NETSCOUT,,$2.49 B,2.308,USA,,,,,,,$34.57,,NTCT,,$0.89 B
+SD BioSensor,,$2.43 B,523.0,S. Korea,,,,,,,$23.92,,137310.KS,,$2.51 B
+International Distributions Services (Royal Mail),,$2.42 B,179.049,UK,,,,,,,$2.53,,IDS.L,,$16.70 B
+NexTier Oilfield,,$2.41 B,3.34,USA,,,,,,,$9.85,,NEX,,$2.88 B
+ACI Worldwide,,$2.36 B,3.61,USA,,,,,,,$21.08,,ACIW,,$1.43 B
+Grainger plc,Real Estate Services,$2.34 B,,UK,,,Real Estate,,,,$3.16,,GRI.L,,
+Hays plc,Staffing & Employment Services,$2.30 B,,UK,,,Industrials,,,,$1.44,,HAS.L,,
+SSP Group,,$2.25 B,23.0,UK,,,,,,,$2.81,,SSPG.L,,$2.44 B
+TowneBank,,$2.24 B,2.835,USA,,,,,,,$30.81,,TOWN,,$0.67 B
+NV5 Global,,$2.15 B,3.139,USA,,,,,,,$138.55,,NVEE,,$0.78 B
+Future plc,Publishing,$1.91 B,,UK,,,Communication Services,,,,$15.49,,FUTR.L,,
+StoneX Group,Diversified Financials,$1.89 B,3.615,USA,,,,Sean Michael O'Connor,Not found,,$93.03,,SNEX,,$66.03 B
+Delek US,,$1.81 B,3.312,USA,,,,,,,$26.00,,DK,,$18.87 B
+Altice USA,Media,$1.79 B,"9,000",USA,,,,Dexter G. Goei,2001,,$3.95,,ATUS,,$10.1B
+LOTTE Corporation,,$1.73 B,263.0,S. Korea,,,,,,,$24.57,,004990.KS,,$10.00 B
+BRP Group,,$1.72 B,3.4,USA,,,,,,,$28.01,,BRP,,$0.89 B
+NOW Inc.,,$1.38 B,2.3,USA,,,,,,,$12.57,,DNOW,,$2.02 B
+PC Connection,,$1.33 B,2.542,USA,,,,,,,$50.62,,CNXN,,$3.19 B
+NextGen Healthcare,,$1.29 B,2.655,USA,,,,,,,$19.12,,NXGN,,$0.61 B
+CTS Corporation,,$1.25 B,3.82,USA,,,,,,,$39.33,,CTS,,$0.57 B
+Global Partners LP,,$1.16 B,2.43,USA,,,,,,,$34.31,,GLP,,$18.54 B
+TriMas,,$1.14 B,3.5,USA,,,,,,,$27.39,,TRS,,$0.88 B
+MultiPlan,,$1.07 B,2.5,USA,,,,,,,$1.68,,MPLN,,$1.13 B
+MoneyGram,,$1.05 B,3.072,USA,,,,,,,$10.91,,MGI,,$1.29 B
+AZZ," Industries, Construction Materials, Consumer Durables, Electrical Products",$1.02 B,3.885,USA,,,,Not found,Not found,,$41.10,,AZZ,,902 Million USD
+MRC Global,,$1.00 B,2.6,USA,,,,,,,$12.00,,MRC,,$3.18 B
+HireRight,,$0.94 B,2.76,USA,,,,,,,$11.94,,HRT,,$0.82 B
+Columbus McKinnon,,$0.90 B,3.224,USA,,,,,,,$31.69,,CMCO,,$0.92 B
+B&G Foods,,$0.90 B,3.096,USA,,,,,,,$12.62,,BGS,,$2.11 B
+Marshalls plc,Building Materials,$0.90 B,,UK,,,Basic Materials,,,,$3.56,,MSLH.L,,
+SMART Global Holdings,,$0.82 B,3.6,USA,,,,,,,$16.90,,SGH,,$1.81 B
+RCI Hospitality Holdings,,$0.80 B,2.529,USA,,,,,,,$87.14,,RICK,,$0.26 B
+MarineMax,,$0.70 B,2.666,USA,,,,,,,$32.49,,HZO,,$2.30 B
+ATN International,,$0.66 B,2.3,USA,,,,,,,$42.38,,ATNI,,$0.72 B
+G-III Apparel Group,,$0.66 B,2.9,USA,,,,,,,$14.00,,GIII,,$3.12 B
+DoubleUGames,,$0.62 B,311.0,S. Korea,,,,,,,$37.44,,192080.KS,,$0.47 B
+Com2uS,,$0.59 B,1.205,S. Korea,,,,,,,$48.14,,078340.KQ,,
+Emergent BioSolutions,,$0.59 B,2.416,USA,,,,,,,$11.91,,EBS,,$1.51 B
+CIRCOR International,,$0.54 B,3.1,USA,,,,,,,$26.54,,CIR,,$0.76 B
+DXP Enterprises,,$0.50 B,2.49,USA,,,,,,,$27.09,,DXPE,,$1.36 B
+NL Industries,,$0.34 B,2.818,USA,,,,,,,$7.13,,NL,,$0.16 B
+The Restaurant Group plc,Restaurants,$0.25 B,,UK,,,Consumer Discretionary,,,,$0.33,,RTN.L,,
+ZimVie,,$0.25 B,2.7,USA,,,,,,,$9.71,,ZIMV,,$0.94 B
+SmileDirectClub,,$0.20 B,3.2,USA,,,,,,,$0.52,,SDC,,$0.51 B
+ThredUp,,$0.20 B,2.894,USA,,,,,,,$2.00,,TDUP,,$0.28 B
+LL Flooring,,$0.18 B,2.4,USA,,,,,,,$6.46,,LL,,$1.13 B
+AgileThought,,$0.17 B,2.608,USA,,,,,,,$3.47,,AGIL,,$0.17 B
+Liberty TripAdvisor Holdings,,$0.13 B,2.691,USA,,,,,,,$0.73,,LTRPA,,$1.37 B
+eHealth,,$0.12 B,2.379,USA,,,,,,,$4.64,,EHTH,,$0.45 B
+orion-group-holdings,,$80.45 M,2.447,USA,,,,,,,$2.51,,ORN,,$0.71 B
+EQT AB,Asset Management,$39.71 B,"1,059",Japan,"Tokyo, Japan",,Financials,Mr. Christian Sinding,2011,,,,6EQ,,$1.8B
+MPLX LP,Oil & Gas Midstream,$35.27 B,"1,139",United States,"Findlay, OH, United States",,Energy,Mr. Michael J. Hennigan,1988,,,,MPLX,,US$ 0 1.687 billion(2013)
+Bank of America,Banking and Financial Services,$262.65 B,"166,400",USA,"Charlotte, NC, United States",,Financials,Brian Moynihan,1904,,$32.74,,,,$96.8B
+CITIC,Trading Companies,$31.96 B,"310,000",Hong Kong,,,,Zhen Ming Chang,1979,,,,,,$91.2B
+AstraZeneca,Drugs & Biotechnology,$204.56 B,"83,100",United Kingdom,"Cambridge, United Kingdom",,Healthcare,Pascal Soriot MBA,1999,,$71.73,,,,$38.7B
+NASDAQ,Diversified Financials,$27.43 B,"5,814",United States,,,,Adena T. Friedman,1971,,,,,,$5.8B
+PVH,Household & Personal Products,$5.12 B,"31,000",United States,,,,Stefan Larsson,1881,,,,,,$9.2B
+Reach plc,Publishing,$0.44 B,,united-kingdom,,,Communication Services,,,,$1.06,,,,
+Yellow Cake plc,Uranium,$0.89 B,,None,,,Energy,,,,$4.88,,,,
+Ooredoo,,$7.22 B,,united-arab-emirates,,,,,,,$2.25,,,,
+Ghitha,,$4.77 B,,united-arab-emirates,,,,,,,$19.75,,,,
+Bayanat AI,,$3.40 B,,united-arab-emirates,,,,,,,$1.32,,,,
+National Marine Dredging,,$6.71 B,,united-arab-emirates,,,,,,,$8.14,,,,
+Americana Restaurants International,,$7.95 B,,united-arab-emirates,,,,,,,$0.94,,,,
+Abu Dhabi Islamic Bank (ADIB),,$9.09 B,,united-arab-emirates,,,,,,,$2.50,,,,
+Al Dar Properties,,$9.52 B,,united-arab-emirates,,,,,,,$1.21,,,,
+ADNOC Drilling Company,,$14.28 B,,united-arab-emirates,,,,,,,$0.89,,,,
+Multiply Group,,$14.48 B,,united-arab-emirates,,,,,,,$1.29,,,,
+Abu Dhabi Ports,,$8.67 B,,united-arab-emirates,,,,,,,$1.70,,,,
+Borouge,,$22.26 B,,united-arab-emirates,,,,,,,$0.74,,,,
+Abu Dhabi National Oil Company (ADNOC),,$15.31 B,,united-arab-emirates,,,,,,,$1.23,,,,
+Abu Dhabi Commercial Bank (ADCB),,$16.59 B,,united-arab-emirates,,,,,,,$2.39,,,,
+Emirates Telecom (Etisalat Group),,$61.09 B,,united-arab-emirates,,,,,,,$7.02,,,,
+Alpha Dhabi,,$69.53 B,,united-arab-emirates,,,,,,,$6.95,,,,
+MICROSOFT CORPORATION," Technology, Software and IT, Laptops, Video Games / Mobile Games / Tech Games / Casino Games, Gaming, Internet or Mobile App Based Business, Computers Hardware, Tablets, Cloud Services, Artificial Intelligence, Internet of Things, Media, Electronics, Consumer Electronics, Advertising","2,269.000 Billion USD","220,000",USA,,1 MICROSOFT WAY,,Satya Nadella,1975,,,,,,"198,270 Million USD"
+WELLS FARGO & COMPANY," Financial Services, Banking Services, Insurance, Credit Cards, Asset Management",187.660 Billion USD,"253,871",USA,,420 MONTGOMERY ST,,Steven Black,1852,,,,,,"78,492 Million USD"
+BNP PARIBAS," Financial Services, Banking Services, Asset Management, Wealth Management, Mortgage",81.165 Billion USD,"190,000",France,,10 Harewood Avenue,,Max Jadot,1848,,,,,,0 Million USD
+NORFOLK SOUTHERN CORPORATION," Industries, Railway, Rail Transport, Freight Transport, Railway Operating Company, Transportation",62.617 Billion USD,"18,100",USA,,650 W PEACHTREE ST NW,,Charles Moorman,1982,,,,,,"11,142 Million USD"
+MGM RESORTS INTERNATIONAL," Consumer Cyclical, Resorts, Entertainment, Hotels, Casinos, Consumer Services",20.538 Billion USD,,USA,,3600 LAS VEGAS BLVD S,,William Hornbuckle,1986,,,,,,"9,680 Million USD"
+CELANESE CORPORATION," Basic Materials, Chemicals",17.623 Billion USD,,USA,,222 W LAS COLINAS BLVD STE 900N,,Lori J. Ryerkerk,1918,,,,,,"8,537 Million USD"
+MASIMO CORPORATION," Healthcare, Biotechnology, Medical Equipment, Technology, HealthCare Products",14.950 Billion USD,,USA,,52 DISCOVERY,,Joe Kiani,1989,,,,,,"1,239 Million USD"
+VONTIER CORPORATION," Technology, Technology Hardware and Instruments",6.144 Billion USD,,USA,,5438 WADE PARK BLVD STE 600,,Not found,2019,,,,,,"2,990 Million USD"
+"SPRINKLR, INC."," Software and IT, Cloud Services, Business Services",3.890 Billion USD,,USA,,29 W 35TH ST,,Not found,2009,,,,,,492 Million USD
+CNX RESOURCES CORPORATION," Energy, Oil and Gas",2.529 Billion USD,,USA,,1000 CONSOL ENERGY DR STE 400,,Not found,1860,,,,,,"2,283 Million USD"
+ALABAMA POWER COMPANY," Utilities, Electric Utilities",3.512 Billion USD,,USA,,600 N 18TH ST,,Not found,1906,,,,,,"5,830 Million USD"
+EDGEWELL PERSONAL CARE COMPANY," Consumer Defensive, Personal Care Products, FMCG",2.300 Billion USD,,USA,,6 RESEARCH DR,,Not found,2015,,,,,,"2,087 Million USD"
+PROGRESS SOFTWARE CORPORATION," Technology, Software and IT, Software Products",2.037 Billion USD,,USA,,15 WAYSIDE RD STE 400,,Not found,1981,,,,,,531 Million USD
+"AMYRIS, INC."," Basic Materials, Chemicals",4.525 Billion USD,,USA,,5885 HOLLIS ST STE 100,,Not found,Not found,,,,,,341 Million USD
+DIGITAL 9 INFRASTRUCTURE PLC," Financial Services, Asset Management",0.757 Billion USD,,UK,,,,Not found,Not found,,,,,,Not found
